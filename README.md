@@ -1,1 +1,3 @@
-# archaeologists_repository
+# Archaeologists
+
+* [table of contents](documentation/home.md)
