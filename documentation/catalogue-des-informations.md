@@ -60,6 +60,7 @@
 ## Relations entre objets
 - personne est de la même famille que personne
 - personne est élève de personne
+- personne est collègue de personne
 - personne a suivi formation
 - personne est membre de organisation
 - personne est employée par employeur
