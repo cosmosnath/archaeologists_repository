@@ -10,6 +10,7 @@
 - genre
 - origine
 - spécialité
+- activité
 - appartenance familiale
 
 
@@ -52,7 +53,7 @@
 - lieu
 - période chronologique
 - type de vestiges
-- nombre de campagne de fouilles ?
+- nombre de campagne de fouilles
 
 
 <br/>
