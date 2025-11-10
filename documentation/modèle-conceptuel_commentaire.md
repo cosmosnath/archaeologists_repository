@@ -11,7 +11,7 @@ Il s'agit d'une classe objet (persistent item)
 
 ## Occupation
 
-Un métier ou tout autre type d'occupation
+Un métier ou tout autre type d'occupation.
 Il s'agit d'une classe objet (persistent item)
 
 ### Propriétés
@@ -19,12 +19,12 @@ Nom standard, notice
 
 ### Relations
 Une relation réfléxive de spécialisation, termes plus génériques associés à des termes plus précis.
-Par exemple 'épicier' spécialise le terme de 'négociant'.
+Par exemple 'post-doctorant' spécialise le terme de 'chercheur'.
 
 
 ## Pursuit
 
-Le fait d'avoir telle occupation ou activité durant telle période 
+Le fait d'avoir telle occupation ou activité durant telle période.
 Il s'agit d'une classe temporalité (temporal entity)
 
 Exemple: 
@@ -37,5 +37,5 @@ Si plusieurs organisation sont concernées par une activité, plusieurs individu
 
 ## Formation
 
-Le fait de suivre des cours ou de pratiquer un activité dans le but d'obtenir une certification, un diplôme ou toute autre sorte de reconnaissance de compétences
-Il s'agit d'une classe temporalité ?
+Le fait de suivre des cours ou de pratiquer un activité dans le but d'obtenir une certification, un diplôme ou toute autre sorte de reconnaissance de compétences.
+Il s'agit d'une classe temporalité (temporal entity)
