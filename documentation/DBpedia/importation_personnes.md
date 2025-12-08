@@ -81,7 +81,7 @@ INSERT INTO person (birth_date, dbpedia_uri, name, import_metadata)
 SELECT birthYear, person_uri, persname, "Importé le 7 décembre 2025 depuis le résultat d'une requête SPARQL sur DBPedia, cf. archaeologists/DBpedia/importation_personnes.md"
 FROM dbp_liste_personnes lp ;
 
-### Créer les lignes dans la table 'reference' contenant l'URI et la clé étrangère désignant la requête SPARQL dans la table 'sparql_query'
+### Créer les lignes dans la table 'reference' contenant l'URI de chaque personne et la clé étrangère désignant la requête SPARQL correspondante dans la table 'sparql_query'
 INSERT INTO reference (fk_person , exact_reference , fk_sparql_query)
 SELECT pk_person, dbpedia_uri, 1
 FROM person p;
