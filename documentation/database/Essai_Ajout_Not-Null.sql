@@ -1,0 +1,1 @@
+ALTER TABLE pursuit ADD fk_occupation INTEGER NOT NULL DEFAULT 'x'
