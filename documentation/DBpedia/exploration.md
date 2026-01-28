@@ -1,4 +1,5 @@
 
+# Exploration de DBpedia (données ouvertes)
 https://en.wikipedia.org/wiki/Gertrude_Bell URL
 
 http://dbpedia.org/resource/Gertrude_Bell URI IRI
@@ -21,9 +22,12 @@ WHERE {
   dbr:List_of_archaeologists ?p ?person.
   ?person a dbo:Person.
   }
-## Résultat : 744
 
-## Trouver une ressource dans la liste qui n'est pas une personne +...
+
+
+    -> Résultat : 744
+
+## Trouver une ressource dans la liste qui n'est pas une personne
 PREFIX dbr: <http://dbpedia.org/resource/>
   PREFIX dbo: <http://dbpedia.org/ontology/>
   PREFIX dbp: <http://dbpedia.org/property/>
@@ -32,7 +36,7 @@ PREFIX dbr: <http://dbpedia.org/resource/>
               MINUS { ?s1 a dbo:Person.}
   }
 
-## Obtenir les 10 premiers individus qui font partie de la liste et sont des personnes.
+## Obtenir les 10 premiers individus qui font partie de la liste et sont des personnes
 PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 SELECT ?p ?o1 
@@ -57,7 +61,7 @@ dbr:List_of_astronomers ?p ?person.
 LIMIT 100
 
 
-## Ici, on met la propriété <http://www.w3.org/2002/07/owl:sameAs> en préfixe et on insère juste owl:sameAs dans la partie ...
+## Insertion de la propriété <http://www.w3.org/2002/07/owl:sameAs> en préfixe et de owl:sameAs dans le script
 PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>

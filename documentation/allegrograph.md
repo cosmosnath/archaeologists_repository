@@ -1,9 +1,9 @@
 # Serveur AllegroGraph
 
 ## Identifiants du serveur
-Name: agraph-607-cosmosnath
+Name: agraph-113-cosmosnath
 
-AllegroGraph WebView: https://ag132kz7jrzck2hf.allegrograph.cloud/webview/welcome
+AllegroGraph WebView: https://ag1g6r37fkqqzppm.allegrograph.cloud/webview/welcome
 
 ## Remplir le serveur
 Alimenter un triplestore pour la recherche personnelle
