@@ -1,5 +1,7 @@
 # Serveur AllegroGraph
 
+Remarque : nous avons choisi de ne prendre en compte que les personnes nées au XIXe siècle et suivants pour cet exercice.
+
 ## Identifiants du serveur
 Name: agraph-113-cosmosnath
 
@@ -31,6 +33,7 @@ SERVICE <https://dbpedia.org/sparql> {
 }
 
     -> Il y a 307 lignes donc 307 personnes qui seront importées.
+    -> Remarque : nous avons choisi de ne prendre en compte que les personnes nées au XIXe siècle et suivants pour cet exercice.
 
 #### Construire les données à importer
 

@@ -1,0 +1,1230 @@
+<http://dbpedia.org/resource/Grafton_Elliot_Smith> <http://dbpedia.org/ontology/birthYear> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Grafton_Elliot_Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Grafton_Elliot_Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Grafton Elliot Smith"@en .
+<http://dbpedia.org/resource/John_Garstang> <http://dbpedia.org/ontology/birthYear> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Garstang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Garstang> <http://www.w3.org/2000/01/rdf-schema#label> "John Garstang"@en .
+<http://dbpedia.org/resource/Mortimer_Wheeler> <http://dbpedia.org/ontology/birthYear> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mortimer_Wheeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mortimer_Wheeler> <http://www.w3.org/2000/01/rdf-schema#label> "Mortimer Wheeler"@en .
+<http://dbpedia.org/resource/Harry_Charles_Purvis_Bell> <http://dbpedia.org/ontology/birthYear> "1851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Harry_Charles_Purvis_Bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Harry_Charles_Purvis_Bell> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Charles Purvis Bell"@en .
+<http://dbpedia.org/resource/Jacquetta_Hawkes> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jacquetta_Hawkes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jacquetta_Hawkes> <http://www.w3.org/2000/01/rdf-schema#label> "Jacquetta Hawkes"@en .
+<http://dbpedia.org/resource/Marie_Hackin> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marie_Hackin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marie_Hackin> <http://www.w3.org/2000/01/rdf-schema#label> "Marie Hackin"@en .
+<http://dbpedia.org/resource/Paul_Bahn> <http://dbpedia.org/ontology/birthYear> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Paul_Bahn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Paul_Bahn> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Bahn"@en .
+<http://dbpedia.org/resource/Norman_Hammond> <http://dbpedia.org/ontology/birthYear> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Norman_Hammond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Norman_Hammond> <http://www.w3.org/2000/01/rdf-schema#label> "Norman Hammond"@en .
+<http://dbpedia.org/resource/Bertha_Parker_Pallan> <http://dbpedia.org/ontology/birthYear> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bertha_Parker_Pallan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bertha_Parker_Pallan> <http://www.w3.org/2000/01/rdf-schema#label> "Bertha Parker Pallan"@en .
+<http://dbpedia.org/resource/Birgitta_Hoffmann> <http://dbpedia.org/ontology/birthYear> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Birgitta_Hoffmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Birgitta_Hoffmann> <http://www.w3.org/2000/01/rdf-schema#label> "Birgitta Hoffmann"@en .
+<http://dbpedia.org/resource/Brian_Dobson_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Brian_Dobson_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Brian_Dobson_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Dobson (archaeologist)"@en .
+<http://dbpedia.org/resource/George_Eogan> <http://dbpedia.org/ontology/birthYear> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/George_Eogan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/George_Eogan> <http://www.w3.org/2000/01/rdf-schema#label> "George Eogan"@en .
+<http://dbpedia.org/resource/James_Stewart_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_Stewart_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_Stewart_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "James Stewart (archaeologist)"@en .
+<http://dbpedia.org/resource/Linda_Braidwood> <http://dbpedia.org/ontology/birthYear> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Linda_Braidwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Linda_Braidwood> <http://www.w3.org/2000/01/rdf-schema#label> "Linda Braidwood"@en .
+<http://dbpedia.org/resource/Roderick_Salisbury> <http://dbpedia.org/ontology/birthYear> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Roderick_Salisbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Roderick_Salisbury> <http://www.w3.org/2000/01/rdf-schema#label> "Roderick Salisbury"@en .
+<http://dbpedia.org/resource/Roger_Cribb> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Roger_Cribb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Roger_Cribb> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Cribb"@en .
+<http://dbpedia.org/resource/Irving_Rouse> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Irving_Rouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Irving_Rouse> <http://www.w3.org/2000/01/rdf-schema#label> "Irving Rouse"@en .
+<http://dbpedia.org/resource/Dorothy_Lamb> <http://dbpedia.org/ontology/birthYear> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dorothy_Lamb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dorothy_Lamb> <http://www.w3.org/2000/01/rdf-schema#label> "Dorothy Lamb"@en .
+<http://dbpedia.org/resource/Alice_Leslie_Walker> <http://dbpedia.org/ontology/birthYear> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alice_Leslie_Walker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alice_Leslie_Walker> <http://www.w3.org/2000/01/rdf-schema#label> "Alice Leslie Walker"@en .
+<http://dbpedia.org/resource/Bert_Hodge_Hill> <http://dbpedia.org/ontology/birthYear> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bert_Hodge_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bert_Hodge_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Bert Hodge Hill"@en .
+<http://dbpedia.org/resource/David_L._Kennedy> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/David_L._Kennedy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/David_L._Kennedy> <http://www.w3.org/2000/01/rdf-schema#label> "David L. Kennedy"@en .
+<http://dbpedia.org/resource/Elinor_Mullett_Husselman> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elinor_Mullett_Husselman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Elinor_Mullett_Husselman> <http://www.w3.org/2000/01/rdf-schema#label> "Elinor Mullett Husselman"@en .
+<http://dbpedia.org/resource/Vincent_Gaffney> <http://dbpedia.org/ontology/birthYear> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Vincent_Gaffney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Vincent_Gaffney> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent Gaffney"@en .
+<http://dbpedia.org/resource/Joan_du_Plat_Taylor> <http://dbpedia.org/ontology/birthYear> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Joan_du_Plat_Taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Joan_du_Plat_Taylor> <http://www.w3.org/2000/01/rdf-schema#label> "Joan du Plat Taylor"@en .
+<http://dbpedia.org/resource/Fred_Vargas> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fred_Vargas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fred_Vargas> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Vargas"@en .
+<http://dbpedia.org/resource/Hiram_Bingham_III> <http://dbpedia.org/ontology/birthYear> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Hiram_Bingham_III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hiram_Bingham_III> <http://www.w3.org/2000/01/rdf-schema#label> "Hiram Bingham III"@en .
+<http://dbpedia.org/resource/Kathleen_Kenyon> <http://dbpedia.org/ontology/birthYear> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kathleen_Kenyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kathleen_Kenyon> <http://www.w3.org/2000/01/rdf-schema#label> "Kathleen Kenyon"@en .
+<http://dbpedia.org/resource/Austen_Henry_Layard> <http://dbpedia.org/ontology/birthYear> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Austen_Henry_Layard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Austen_Henry_Layard> <http://www.w3.org/2000/01/rdf-schema#label> "Austen Henry Layard"@en .
+<http://dbpedia.org/resource/Dorothy_Garrod> <http://dbpedia.org/ontology/birthYear> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dorothy_Garrod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dorothy_Garrod> <http://www.w3.org/2000/01/rdf-schema#label> "Dorothy Garrod"@en .
+<http://dbpedia.org/resource/Ernst_Curtius> <http://dbpedia.org/ontology/birthYear> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ernst_Curtius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ernst_Curtius> <http://www.w3.org/2000/01/rdf-schema#label> "Ernst Curtius"@en .
+<http://dbpedia.org/resource/Gustaf_Kossinna> <http://dbpedia.org/ontology/birthYear> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gustaf_Kossinna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gustaf_Kossinna> <http://www.w3.org/2000/01/rdf-schema#label> "Gustaf Kossinna"@en .
+<http://dbpedia.org/resource/Ludwig_Borchardt> <http://dbpedia.org/ontology/birthYear> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ludwig_Borchardt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ludwig_Borchardt> <http://www.w3.org/2000/01/rdf-schema#label> "Ludwig Borchardt"@en .
+<http://dbpedia.org/resource/Manfred_Korfmann> <http://dbpedia.org/ontology/birthYear> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Manfred_Korfmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Manfred_Korfmann> <http://www.w3.org/2000/01/rdf-schema#label> "Manfred Korfmann"@en .
+<http://dbpedia.org/resource/Robert_Koldewey> <http://dbpedia.org/ontology/birthYear> "1855"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Robert_Koldewey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_Koldewey> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Koldewey"@en .
+<http://dbpedia.org/resource/Wilhelm_D\u00F6rpfeld> <http://dbpedia.org/ontology/birthYear> "1853"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wilhelm_D\u00F6rpfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Wilhelm_D\u00F6rpfeld> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm D\u00F6rpfeld"@en .
+<http://dbpedia.org/resource/William_Robertson_Smith> <http://dbpedia.org/ontology/birthYear> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_Robertson_Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Robertson_Smith> <http://www.w3.org/2000/01/rdf-schema#label> "William Robertson Smith"@en .
+<http://dbpedia.org/resource/Karl_Butzer> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Karl_Butzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Karl_Butzer> <http://www.w3.org/2000/01/rdf-schema#label> "Karl Butzer"@en .
+<http://dbpedia.org/resource/Ekrem_Akurgal> <http://dbpedia.org/ontology/birthYear> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ekrem_Akurgal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ekrem_Akurgal> <http://www.w3.org/2000/01/rdf-schema#label> "Ekrem Akurgal"@en .
+<http://dbpedia.org/resource/Fran\u00E7ois_Lenormant> <http://dbpedia.org/ontology/birthYear> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fran\u00E7ois_Lenormant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fran\u00E7ois_Lenormant> <http://www.w3.org/2000/01/rdf-schema#label> "Fran\u00E7ois Lenormant"@en .
+<http://dbpedia.org/resource/Constantin_Daicoviciu> <http://dbpedia.org/ontology/birthYear> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Constantin_Daicoviciu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Constantin_Daicoviciu> <http://www.w3.org/2000/01/rdf-schema#label> "Constantin Daicoviciu"@en .
+<http://dbpedia.org/resource/Nahman_Avigad> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Nahman_Avigad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nahman_Avigad> <http://www.w3.org/2000/01/rdf-schema#label> "Nahman Avigad"@en .
+<http://dbpedia.org/resource/Gordon_Willey> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gordon_Willey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gordon_Willey> <http://www.w3.org/2000/01/rdf-schema#label> "Gordon Willey"@en .
+<http://dbpedia.org/resource/Margaret_Murray> <http://dbpedia.org/ontology/birthYear> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Margaret_Murray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Margaret_Murray> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Murray"@en .
+<http://dbpedia.org/resource/Alfonso_Caso> <http://dbpedia.org/ontology/birthYear> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alfonso_Caso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alfonso_Caso> <http://www.w3.org/2000/01/rdf-schema#label> "Alfonso Caso"@en .
+<http://dbpedia.org/resource/Avraham_Biran> <http://dbpedia.org/ontology/birthYear> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Avraham_Biran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Avraham_Biran> <http://www.w3.org/2000/01/rdf-schema#label> "Avraham Biran"@en .
+<http://dbpedia.org/resource/Israel_Finkelstein> <http://dbpedia.org/ontology/birthYear> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Israel_Finkelstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Israel_Finkelstein> <http://www.w3.org/2000/01/rdf-schema#label> "Israel Finkelstein"@en .
+<http://dbpedia.org/resource/Florin_Curta> <http://dbpedia.org/ontology/birthYear> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Florin_Curta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Florin_Curta> <http://www.w3.org/2000/01/rdf-schema#label> "Florin Curta"@en .
+<http://dbpedia.org/resource/Fereidoun_Biglari> <http://dbpedia.org/ontology/birthYear> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fereidoun_Biglari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fereidoun_Biglari> <http://www.w3.org/2000/01/rdf-schema#label> "Fereidoun Biglari"@en .
+<http://dbpedia.org/resource/Richard_J._C._Atkinson> <http://dbpedia.org/ontology/birthYear> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_J._C._Atkinson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_J._C._Atkinson> <http://www.w3.org/2000/01/rdf-schema#label> "Richard J. C. Atkinson"@en .
+<http://dbpedia.org/resource/Tessa_Wheeler> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Tessa_Wheeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Tessa_Wheeler> <http://www.w3.org/2000/01/rdf-schema#label> "Tessa Wheeler"@en .
+<http://dbpedia.org/resource/Louis_Dupree_(professor)> <http://dbpedia.org/ontology/birthYear> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Louis_Dupree_(professor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Louis_Dupree_(professor)> <http://www.w3.org/2000/01/rdf-schema#label> "Louis Dupree (professor)"@en .
+<http://dbpedia.org/resource/Cynthia_Irwin-Williams> <http://dbpedia.org/ontology/birthYear> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Cynthia_Irwin-Williams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cynthia_Irwin-Williams> <http://www.w3.org/2000/01/rdf-schema#label> "Cynthia Irwin-Williams"@en .
+<http://dbpedia.org/resource/Ahmad_Hasan_Dani> <http://dbpedia.org/ontology/birthYear> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ahmad_Hasan_Dani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ahmad_Hasan_Dani> <http://www.w3.org/2000/01/rdf-schema#label> "Ahmad Hasan Dani"@en .
+<http://dbpedia.org/resource/Aileen_Fox> <http://dbpedia.org/ontology/birthYear> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aileen_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Aileen_Fox> <http://www.w3.org/2000/01/rdf-schema#label> "Aileen Fox"@en .
+<http://dbpedia.org/resource/Barry_Cunliffe> <http://dbpedia.org/ontology/birthYear> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Barry_Cunliffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Barry_Cunliffe> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Cunliffe"@en .
+<http://dbpedia.org/resource/Jole_Bovio_Marconi> <http://dbpedia.org/ontology/birthYear> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jole_Bovio_Marconi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jole_Bovio_Marconi> <http://www.w3.org/2000/01/rdf-schema#label> "Jole Bovio Marconi"@en .
+<http://dbpedia.org/resource/Maud_Cunnington> <http://dbpedia.org/ontology/birthYear> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Maud_Cunnington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Maud_Cunnington> <http://www.w3.org/2000/01/rdf-schema#label> "Maud Cunnington"@en .
+<http://dbpedia.org/resource/Warren_K._Moorehead> <http://dbpedia.org/ontology/birthYear> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Warren_K._Moorehead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Warren_K._Moorehead> <http://www.w3.org/2000/01/rdf-schema#label> "Warren K. Moorehead"@en .
+<http://dbpedia.org/resource/Henrieta_Todorova> <http://dbpedia.org/ontology/birthYear> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Henrieta_Todorova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Henrieta_Todorova> <http://www.w3.org/2000/01/rdf-schema#label> "Henrieta Todorova"@en .
+<http://dbpedia.org/resource/Isabel_McBryde> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Isabel_McBryde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Isabel_McBryde> <http://www.w3.org/2000/01/rdf-schema#label> "Isabel McBryde"@en .
+<http://dbpedia.org/resource/Jadwiga_Szeptycka> <http://dbpedia.org/ontology/birthYear> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jadwiga_Szeptycka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jadwiga_Szeptycka> <http://www.w3.org/2000/01/rdf-schema#label> "Jadwiga Szeptycka"@en .
+<http://dbpedia.org/resource/Richard_Leakey> <http://dbpedia.org/ontology/birthYear> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_Leakey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Leakey> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Leakey"@en .
+<http://dbpedia.org/resource/Gerhard_Bersu> <http://dbpedia.org/ontology/birthYear> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gerhard_Bersu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gerhard_Bersu> <http://www.w3.org/2000/01/rdf-schema#label> "Gerhard Bersu"@en .
+<http://dbpedia.org/resource/Jacques_Breuer> <http://dbpedia.org/ontology/birthYear> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jacques_Breuer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jacques_Breuer> <http://www.w3.org/2000/01/rdf-schema#label> "Jacques Breuer"@en .
+<http://dbpedia.org/resource/Klaus_Schmidt_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Klaus_Schmidt_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Klaus_Schmidt_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Klaus Schmidt (archaeologist)"@en .
+<http://dbpedia.org/resource/Larissa_Bonfante> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Larissa_Bonfante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Larissa_Bonfante> <http://www.w3.org/2000/01/rdf-schema#label> "Larissa Bonfante"@en .
+<http://dbpedia.org/resource/Alexander_Cunningham> <http://dbpedia.org/ontology/birthYear> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alexander_Cunningham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alexander_Cunningham> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Cunningham"@en .
+<http://dbpedia.org/resource/Max_Mallowan> <http://dbpedia.org/ontology/birthYear> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Max_Mallowan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Max_Mallowan> <http://www.w3.org/2000/01/rdf-schema#label> "Max Mallowan"@en .
+<http://dbpedia.org/resource/William_F._Albright> <http://dbpedia.org/ontology/birthYear> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_F._Albright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_F._Albright> <http://www.w3.org/2000/01/rdf-schema#label> "William F. Albright"@en .
+<http://dbpedia.org/resource/Andr\u00E9_Parrot> <http://dbpedia.org/ontology/birthYear> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Andr\u00E9_Parrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Andr\u00E9_Parrot> <http://www.w3.org/2000/01/rdf-schema#label> "Andr\u00E9 Parrot"@en .
+<http://dbpedia.org/resource/Harriet_Boyd_Hawes> <http://dbpedia.org/ontology/birthYear> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Harriet_Boyd_Hawes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Harriet_Boyd_Hawes> <http://www.w3.org/2000/01/rdf-schema#label> "Harriet Boyd Hawes"@en .
+<http://dbpedia.org/resource/Malcolm_Todd> <http://dbpedia.org/ontology/birthYear> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Malcolm_Todd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Malcolm_Todd> <http://www.w3.org/2000/01/rdf-schema#label> "Malcolm Todd"@en .
+<http://dbpedia.org/resource/Julio_C._Tello> <http://dbpedia.org/ontology/birthYear> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Julio_C._Tello> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Julio_C._Tello> <http://www.w3.org/2000/01/rdf-schema#label> "Julio C. Tello"@en .
+<http://dbpedia.org/resource/Norman_Tindale> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Norman_Tindale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Norman_Tindale> <http://www.w3.org/2000/01/rdf-schema#label> "Norman Tindale"@en .
+<http://dbpedia.org/resource/Alice_Kober> <http://dbpedia.org/ontology/birthYear> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alice_Kober> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alice_Kober> <http://www.w3.org/2000/01/rdf-schema#label> "Alice Kober"@en .
+<http://dbpedia.org/resource/Alasdair_Whittle> <http://dbpedia.org/ontology/birthYear> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alasdair_Whittle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alasdair_Whittle> <http://www.w3.org/2000/01/rdf-schema#label> "Alasdair Whittle"@en .
+<http://dbpedia.org/resource/Claire_Smith_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Claire_Smith_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Claire_Smith_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Claire Smith (archaeologist)"@en .
+<http://dbpedia.org/resource/Clarence_Bloomfield_Moore> <http://dbpedia.org/ontology/birthYear> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Clarence_Bloomfield_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Clarence_Bloomfield_Moore> <http://www.w3.org/2000/01/rdf-schema#label> "Clarence Bloomfield Moore"@en .
+<http://dbpedia.org/resource/Diane_Barwick> <http://dbpedia.org/ontology/birthYear> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Diane_Barwick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Diane_Barwick> <http://www.w3.org/2000/01/rdf-schema#label> "Diane Barwick"@en .
+<http://dbpedia.org/resource/Dilip_Kumar_Chakrabarti> <http://dbpedia.org/ontology/birthYear> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dilip_Kumar_Chakrabarti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dilip_Kumar_Chakrabarti> <http://www.w3.org/2000/01/rdf-schema#label> "Dilip Kumar Chakrabarti"@en .
+<http://dbpedia.org/resource/Donald_Lathrap> <http://dbpedia.org/ontology/birthYear> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Donald_Lathrap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Donald_Lathrap> <http://www.w3.org/2000/01/rdf-schema#label> "Donald Lathrap"@en .
+<http://dbpedia.org/resource/Pasko_Kuzman> <http://dbpedia.org/ontology/birthYear> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pasko_Kuzman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Pasko_Kuzman> <http://www.w3.org/2000/01/rdf-schema#label> "Pasko Kuzman"@en .
+<http://dbpedia.org/resource/Patty_Jo_Watson> <http://dbpedia.org/ontology/birthYear> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Patty_Jo_Watson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Patty_Jo_Watson> <http://www.w3.org/2000/01/rdf-schema#label> "Patty Jo Watson"@en .
+<http://dbpedia.org/resource/Malcolm_H._Wiener> <http://dbpedia.org/ontology/birthYear> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Malcolm_H._Wiener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Malcolm_H._Wiener> <http://www.w3.org/2000/01/rdf-schema#label> "Malcolm H. Wiener"@en .
+<http://dbpedia.org/resource/Stanley_South> <http://dbpedia.org/ontology/birthYear> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stanley_South> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stanley_South> <http://www.w3.org/2000/01/rdf-schema#label> "Stanley South"@en .
+<http://dbpedia.org/resource/Timothy_W._Potter> <http://dbpedia.org/ontology/birthYear> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Timothy_W._Potter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Timothy_W._Potter> <http://www.w3.org/2000/01/rdf-schema#label> "Timothy W. Potter"@en .
+<http://dbpedia.org/resource/Christiane_Desroches_Noblecourt> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Christiane_Desroches_Noblecourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Christiane_Desroches_Noblecourt> <http://www.w3.org/2000/01/rdf-schema#label> "Christiane Desroches Noblecourt"@en .
+<http://dbpedia.org/resource/W._F._Grimes> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/W._F._Grimes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/W._F._Grimes> <http://www.w3.org/2000/01/rdf-schema#label> "W. F. Grimes"@en .
+<http://dbpedia.org/resource/Ricardo_Eichmann> <http://dbpedia.org/ontology/birthYear> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ricardo_Eichmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ricardo_Eichmann> <http://www.w3.org/2000/01/rdf-schema#label> "Ricardo Eichmann"@en .
+<http://dbpedia.org/resource/Einar_Gjerstad> <http://dbpedia.org/ontology/birthYear> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Einar_Gjerstad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Einar_Gjerstad> <http://www.w3.org/2000/01/rdf-schema#label> "Einar Gjerstad"@en .
+<http://dbpedia.org/resource/Neil_Faulkner_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Neil_Faulkner_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Neil_Faulkner_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Neil Faulkner (archaeologist)"@en .
+<http://dbpedia.org/resource/Jean_Boisselier> <http://dbpedia.org/ontology/birthYear> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jean_Boisselier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jean_Boisselier> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Boisselier"@en .
+<http://dbpedia.org/resource/Robert_John_Braidwood> <http://dbpedia.org/ontology/birthYear> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Robert_John_Braidwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_John_Braidwood> <http://www.w3.org/2000/01/rdf-schema#label> "Robert John Braidwood"@en .
+<http://dbpedia.org/resource/Eric_H._Cline> <http://dbpedia.org/ontology/birthYear> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Eric_H._Cline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Eric_H._Cline> <http://www.w3.org/2000/01/rdf-schema#label> "Eric H. Cline"@en .
+<http://dbpedia.org/resource/Peter_Garlake> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Peter_Garlake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Peter_Garlake> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Garlake"@en .
+<http://dbpedia.org/resource/Peter_N._Peregrine> <http://dbpedia.org/ontology/birthYear> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Peter_N._Peregrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Peter_N._Peregrine> <http://www.w3.org/2000/01/rdf-schema#label> "Peter N. Peregrine"@en .
+<http://dbpedia.org/resource/Gertrude_Bell> <http://dbpedia.org/ontology/birthYear> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gertrude_Bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gertrude_Bell> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrude Bell"@en .
+<http://dbpedia.org/resource/Mary_Leakey> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mary_Leakey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mary_Leakey> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Leakey"@en .
+<http://dbpedia.org/resource/Alfred_V._Kidder> <http://dbpedia.org/ontology/birthYear> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alfred_V._Kidder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alfred_V._Kidder> <http://www.w3.org/2000/01/rdf-schema#label> "Alfred V. Kidder"@en .
+<http://dbpedia.org/resource/Kazimierz_Micha\u0142owski> <http://dbpedia.org/ontology/birthYear> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kazimierz_Micha\u0142owski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kazimierz_Micha\u0142owski> <http://www.w3.org/2000/01/rdf-schema#label> "Kazimierz Micha\u0142owski"@en .
+<http://dbpedia.org/resource/Gary_Urton> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gary_Urton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gary_Urton> <http://www.w3.org/2000/01/rdf-schema#label> "Gary Urton"@en .
+<http://dbpedia.org/resource/Neil_Oliver> <http://dbpedia.org/ontology/birthYear> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Neil_Oliver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Neil_Oliver> <http://www.w3.org/2000/01/rdf-schema#label> "Neil Oliver"@en .
+<http://dbpedia.org/resource/Betty_Meggers> <http://dbpedia.org/ontology/birthYear> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Betty_Meggers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Betty_Meggers> <http://www.w3.org/2000/01/rdf-schema#label> "Betty Meggers"@en .
+<http://dbpedia.org/resource/Martin_Rundkvist> <http://dbpedia.org/ontology/birthYear> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Martin_Rundkvist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Martin_Rundkvist> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Rundkvist"@en .
+<http://dbpedia.org/resource/Carl_Blegen> <http://dbpedia.org/ontology/birthYear> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carl_Blegen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carl_Blegen> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Blegen"@en .
+<http://dbpedia.org/resource/Victor_Loret> <http://dbpedia.org/ontology/birthYear> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Victor_Loret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Victor_Loret> <http://www.w3.org/2000/01/rdf-schema#label> "Victor Loret"@en .
+<http://dbpedia.org/resource/Giacomo_Boni_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Giacomo_Boni_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Giacomo_Boni_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Giacomo Boni (archaeologist)"@en .
+<http://dbpedia.org/resource/John_Boardman_(art_historian)> <http://dbpedia.org/ontology/birthYear> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Boardman_(art_historian)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Boardman_(art_historian)> <http://www.w3.org/2000/01/rdf-schema#label> "John Boardman (art historian)"@en .
+<http://dbpedia.org/resource/Johan_Gunnar_Andersson> <http://dbpedia.org/ontology/birthYear> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Johan_Gunnar_Andersson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Johan_Gunnar_Andersson> <http://www.w3.org/2000/01/rdf-schema#label> "Johan Gunnar Andersson"@en .
+<http://dbpedia.org/resource/Benjamin_Mazar> <http://dbpedia.org/ontology/birthYear> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Benjamin_Mazar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Benjamin_Mazar> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Mazar"@en .
+<http://dbpedia.org/resource/Osman_Hamdi_Bey> <http://dbpedia.org/ontology/birthYear> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Osman_Hamdi_Bey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Osman_Hamdi_Bey> <http://www.w3.org/2000/01/rdf-schema#label> "Osman Hamdi Bey"@en .
+<http://dbpedia.org/resource/Li_Xueqin> <http://dbpedia.org/ontology/birthYear> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Li_Xueqin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Li_Xueqin> <http://www.w3.org/2000/01/rdf-schema#label> "Li Xueqin"@en .
+<http://dbpedia.org/resource/Richard_Klein_(paleoanthropologist)> <http://dbpedia.org/ontology/birthYear> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_Klein_(paleoanthropologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Klein_(paleoanthropologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Klein (paleoanthropologist)"@en .
+<http://dbpedia.org/resource/Gheorghe_I._Cantacuzino> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gheorghe_I._Cantacuzino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gheorghe_I._Cantacuzino> <http://www.w3.org/2000/01/rdf-schema#label> "Gheorghe I. Cantacuzino"@en .
+<http://dbpedia.org/resource/Foss_Leach> <http://dbpedia.org/ontology/birthYear> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Foss_Leach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Foss_Leach> <http://www.w3.org/2000/01/rdf-schema#label> "Foss Leach"@en .
+<http://dbpedia.org/resource/Veronica_Seton-Williams> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Veronica_Seton-Williams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Veronica_Seton-Williams> <http://www.w3.org/2000/01/rdf-schema#label> "Veronica Seton-Williams"@en .
+<http://dbpedia.org/resource/Ian_Hodder> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ian_Hodder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ian_Hodder> <http://www.w3.org/2000/01/rdf-schema#label> "Ian Hodder"@en .
+<http://dbpedia.org/resource/Alireza_Shapour_Shahbazi> <http://dbpedia.org/ontology/birthYear> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alireza_Shapour_Shahbazi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alireza_Shapour_Shahbazi> <http://www.w3.org/2000/01/rdf-schema#label> "Alireza Shapour Shahbazi"@en .
+<http://dbpedia.org/resource/Viktor_Sarianidi> <http://dbpedia.org/ontology/birthYear> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Viktor_Sarianidi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Viktor_Sarianidi> <http://www.w3.org/2000/01/rdf-schema#label> "Viktor Sarianidi"@en .
+<http://dbpedia.org/resource/Ehud_Netzer> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ehud_Netzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ehud_Netzer> <http://www.w3.org/2000/01/rdf-schema#label> "Ehud Netzer"@en .
+<http://dbpedia.org/resource/Andrew_Ramsay_(geologist)> <http://dbpedia.org/ontology/birthYear> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Andrew_Ramsay_(geologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Andrew_Ramsay_(geologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Ramsay (geologist)"@en .
+<http://dbpedia.org/resource/Andrew_Sherratt> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Andrew_Sherratt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Andrew_Sherratt> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Sherratt"@en .
+<http://dbpedia.org/resource/Donald_Johanson> <http://dbpedia.org/ontology/birthYear> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Donald_Johanson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Donald_Johanson> <http://www.w3.org/2000/01/rdf-schema#label> "Donald Johanson"@en .
+<http://dbpedia.org/resource/Ruth_Amiran> <http://dbpedia.org/ontology/birthYear> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ruth_Amiran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ruth_Amiran> <http://www.w3.org/2000/01/rdf-schema#label> "Ruth Amiran"@en .
+<http://dbpedia.org/resource/Jens_Jacob_Asmussen_Worsaae> <http://dbpedia.org/ontology/birthYear> "1821"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jens_Jacob_Asmussen_Worsaae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jens_Jacob_Asmussen_Worsaae> <http://www.w3.org/2000/01/rdf-schema#label> "Jens Jacob Asmussen Worsaae"@en .
+<http://dbpedia.org/resource/Bruce_Trigger> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bruce_Trigger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bruce_Trigger> <http://www.w3.org/2000/01/rdf-schema#label> "Bruce Trigger"@en .
+<http://dbpedia.org/resource/Mike_Parker_Pearson> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mike_Parker_Pearson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mike_Parker_Pearson> <http://www.w3.org/2000/01/rdf-schema#label> "Mike Parker Pearson"@en .
+<http://dbpedia.org/resource/Peter_Ucko> <http://dbpedia.org/ontology/birthYear> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Peter_Ucko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Peter_Ucko> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Ucko"@en .
+<http://dbpedia.org/resource/Ian_Graham> <http://dbpedia.org/ontology/birthYear> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ian_Graham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ian_Graham> <http://www.w3.org/2000/01/rdf-schema#label> "Ian Graham"@en .
+<http://dbpedia.org/resource/John_Evans_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Evans_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Evans_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "John Evans (archaeologist)"@en .
+<http://dbpedia.org/resource/Nikolaos_Platon> <http://dbpedia.org/ontology/birthYear> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Nikolaos_Platon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nikolaos_Platon> <http://www.w3.org/2000/01/rdf-schema#label> "Nikolaos Platon"@en .
+<http://dbpedia.org/resource/Marek_Zvelebil> <http://dbpedia.org/ontology/birthYear> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marek_Zvelebil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marek_Zvelebil> <http://www.w3.org/2000/01/rdf-schema#label> "Marek Zvelebil"@en .
+<http://dbpedia.org/resource/Percy_Gardner> <http://dbpedia.org/ontology/birthYear> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Percy_Gardner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Percy_Gardner> <http://www.w3.org/2000/01/rdf-schema#label> "Percy Gardner"@en .
+<http://dbpedia.org/resource/Albert_Lythgoe> <http://dbpedia.org/ontology/birthYear> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Albert_Lythgoe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Albert_Lythgoe> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Lythgoe"@en .
+<http://dbpedia.org/resource/Alexandru_Odobescu> <http://dbpedia.org/ontology/birthYear> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alexandru_Odobescu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alexandru_Odobescu> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandru Odobescu"@en .
+<http://dbpedia.org/resource/Campbell_Cowan_Edgar> <http://dbpedia.org/ontology/birthYear> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Campbell_Cowan_Edgar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Campbell_Cowan_Edgar> <http://www.w3.org/2000/01/rdf-schema#label> "Campbell Cowan Edgar"@en .
+<http://dbpedia.org/resource/Alberto_Ruz_Lhuillier> <http://dbpedia.org/ontology/birthYear> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alberto_Ruz_Lhuillier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alberto_Ruz_Lhuillier> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto Ruz Lhuillier"@en .
+<http://dbpedia.org/resource/Vasile_P\u00E2rvan> <http://dbpedia.org/ontology/birthYear> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Vasile_P\u00E2rvan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Vasile_P\u00E2rvan> <http://www.w3.org/2000/01/rdf-schema#label> "Vasile P\u00E2rvan"@en .
+<http://dbpedia.org/resource/Fred_Wendorf> <http://dbpedia.org/ontology/birthYear> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fred_Wendorf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fred_Wendorf> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Wendorf"@en .
+<http://dbpedia.org/resource/Zdenko_Vinski> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Zdenko_Vinski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Zdenko_Vinski> <http://www.w3.org/2000/01/rdf-schema#label> "Zdenko Vinski"@en .
+<http://dbpedia.org/resource/Charles_Thomas_(historian)> <http://dbpedia.org/ontology/birthYear> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Charles_Thomas_(historian)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Charles_Thomas_(historian)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Thomas (historian)"@en .
+<http://dbpedia.org/resource/James_P._Delgado> <http://dbpedia.org/ontology/birthYear> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_P._Delgado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_P._Delgado> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Delgado"@en .
+<http://dbpedia.org/resource/Edgar_Lee_Hewett> <http://dbpedia.org/ontology/birthYear> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Edgar_Lee_Hewett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edgar_Lee_Hewett> <http://www.w3.org/2000/01/rdf-schema#label> "Edgar Lee Hewett"@en .
+<http://dbpedia.org/resource/Martin_Biddle> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Martin_Biddle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Martin_Biddle> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Biddle"@en .
+<http://dbpedia.org/resource/Martin_Carver> <http://dbpedia.org/ontology/birthYear> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Martin_Carver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Martin_Carver> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Carver"@en .
+<http://dbpedia.org/resource/Edward_Thurlow_Leeds> <http://dbpedia.org/ontology/birthYear> "1877"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Edward_Thurlow_Leeds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edward_Thurlow_Leeds> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Thurlow Leeds"@en .
+<http://dbpedia.org/resource/Therkel_Mathiassen> <http://dbpedia.org/ontology/birthYear> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Therkel_Mathiassen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Therkel_Mathiassen> <http://www.w3.org/2000/01/rdf-schema#label> "Therkel Mathiassen"@en .
+<http://dbpedia.org/resource/William_Greenwell> <http://dbpedia.org/ontology/birthYear> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_Greenwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Greenwell> <http://www.w3.org/2000/01/rdf-schema#label> "William Greenwell"@en .
+<http://dbpedia.org/resource/Peter_Woodman> <http://dbpedia.org/ontology/birthYear> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Peter_Woodman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Peter_Woodman> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Woodman"@en .
+<http://dbpedia.org/resource/Charles_Godakumbura> <http://dbpedia.org/ontology/birthYear> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Charles_Godakumbura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Charles_Godakumbura> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Godakumbura"@en .
+<http://dbpedia.org/resource/Cajsa_S._Lund> <http://dbpedia.org/ontology/birthYear> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Cajsa_S._Lund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cajsa_S._Lund> <http://www.w3.org/2000/01/rdf-schema#label> "Cajsa S. Lund"@en .
+<http://dbpedia.org/resource/Anna_Belfer-Cohen> <http://dbpedia.org/ontology/birthYear> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Anna_Belfer-Cohen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Anna_Belfer-Cohen> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Belfer-Cohen"@en .
+<http://dbpedia.org/resource/Louis_Leakey> <http://dbpedia.org/ontology/birthYear> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Louis_Leakey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Louis_Leakey> <http://www.w3.org/2000/01/rdf-schema#label> "Louis Leakey"@en .
+<http://dbpedia.org/resource/Manfred_Bietak> <http://dbpedia.org/ontology/birthYear> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Manfred_Bietak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Manfred_Bietak> <http://www.w3.org/2000/01/rdf-schema#label> "Manfred Bietak"@en .
+<http://dbpedia.org/resource/Hans-Georg_Stephan> <http://dbpedia.org/ontology/birthYear> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Hans-Georg_Stephan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hans-Georg_Stephan> <http://www.w3.org/2000/01/rdf-schema#label> "Hans-Georg Stephan"@en .
+<http://dbpedia.org/resource/Guo_Moruo> <http://dbpedia.org/ontology/birthYear> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Guo_Moruo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Guo_Moruo> <http://www.w3.org/2000/01/rdf-schema#label> "Guo Moruo"@en .
+<http://dbpedia.org/resource/Leonard_Woolley> <http://dbpedia.org/ontology/birthYear> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Leonard_Woolley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Leonard_Woolley> <http://www.w3.org/2000/01/rdf-schema#label> "Leonard Woolley"@en .
+<http://dbpedia.org/resource/Yigael_Yadin> <http://dbpedia.org/ontology/birthYear> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Yigael_Yadin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Yigael_Yadin> <http://www.w3.org/2000/01/rdf-schema#label> "Yigael Yadin"@en .
+<http://dbpedia.org/resource/Arthur_Evans> <http://dbpedia.org/ontology/birthYear> "1851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Arthur_Evans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Arthur_Evans> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Evans"@en .
+<http://dbpedia.org/resource/James_Theodore_Bent> <http://dbpedia.org/ontology/birthYear> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_Theodore_Bent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_Theodore_Bent> <http://www.w3.org/2000/01/rdf-schema#label> "James Theodore Bent"@en .
+<http://dbpedia.org/resource/Aubrey_Burl> <http://dbpedia.org/ontology/birthYear> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aubrey_Burl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Aubrey_Burl> <http://www.w3.org/2000/01/rdf-schema#label> "Aubrey Burl"@en .
+<http://dbpedia.org/resource/Luisa_Banti> <http://dbpedia.org/ontology/birthYear> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Luisa_Banti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Luisa_Banti> <http://www.w3.org/2000/01/rdf-schema#label> "Luisa Banti"@en .
+<http://dbpedia.org/resource/James_Mellaart> <http://dbpedia.org/ontology/birthYear> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_Mellaart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_Mellaart> <http://www.w3.org/2000/01/rdf-schema#label> "James Mellaart"@en .
+<http://dbpedia.org/resource/Raissa_Calza> <http://dbpedia.org/ontology/birthYear> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Raissa_Calza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Raissa_Calza> <http://www.w3.org/2000/01/rdf-schema#label> "Raissa Calza"@en .
+<http://dbpedia.org/resource/Sadegh_Malek_Shahmirzadi> <http://dbpedia.org/ontology/birthYear> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sadegh_Malek_Shahmirzadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Sadegh_Malek_Shahmirzadi> <http://www.w3.org/2000/01/rdf-schema#label> "Sadegh Malek Shahmirzadi"@en .
+<http://dbpedia.org/resource/Colin_Renfrew> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Colin_Renfrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Colin_Renfrew> <http://www.w3.org/2000/01/rdf-schema#label> "Colin Renfrew"@en .
+<http://dbpedia.org/resource/Zahi_Hawass> <http://dbpedia.org/ontology/birthYear> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Zahi_Hawass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Zahi_Hawass> <http://www.w3.org/2000/01/rdf-schema#label> "Zahi Hawass"@en .
+<http://dbpedia.org/resource/Prosper_M\u00E9rim\u00E9e> <http://dbpedia.org/ontology/birthYear> "1803"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Prosper_M\u00E9rim\u00E9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Prosper_M\u00E9rim\u00E9e> <http://www.w3.org/2000/01/rdf-schema#label> "Prosper M\u00E9rim\u00E9e"@en .
+<http://dbpedia.org/resource/Muazzez_\u0130lmiye_\u00C7\u0131\u011F> <http://dbpedia.org/ontology/birthYear> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Muazzez_\u0130lmiye_\u00C7\u0131\u011F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Muazzez_\u0130lmiye_\u00C7\u0131\u011F> <http://www.w3.org/2000/01/rdf-schema#label> "Muazzez \u0130lmiye \u00C7\u0131\u011F"@en .
+<http://dbpedia.org/resource/John_Marshall_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Marshall_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Marshall_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "John Marshall (archaeologist)"@en .
+<http://dbpedia.org/resource/Huang_Wenbi> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Huang_Wenbi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Huang_Wenbi> <http://www.w3.org/2000/01/rdf-schema#label> "Huang Wenbi"@en .
+<http://dbpedia.org/resource/Glynn_Isaac> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Glynn_Isaac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Glynn_Isaac> <http://www.w3.org/2000/01/rdf-schema#label> "Glynn Isaac"@en .
+<http://dbpedia.org/resource/Luigi_Maria_Ugolini> <http://dbpedia.org/ontology/birthYear> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Luigi_Maria_Ugolini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Luigi_Maria_Ugolini> <http://www.w3.org/2000/01/rdf-schema#label> "Luigi Maria Ugolini"@en .
+<http://dbpedia.org/resource/Wil_Roebroeks> <http://dbpedia.org/ontology/birthYear> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wil_Roebroeks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Wil_Roebroeks> <http://www.w3.org/2000/01/rdf-schema#label> "Wil Roebroeks"@en .
+<http://dbpedia.org/resource/Eilat_Mazar> <http://dbpedia.org/ontology/birthYear> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Eilat_Mazar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Eilat_Mazar> <http://www.w3.org/2000/01/rdf-schema#label> "Eilat Mazar"@en .
+<http://dbpedia.org/resource/Mick_Aston> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mick_Aston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mick_Aston> <http://www.w3.org/2000/01/rdf-schema#label> "Mick Aston"@en .
+<http://dbpedia.org/resource/Ufuk_Esin> <http://dbpedia.org/ontology/birthYear> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ufuk_Esin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ufuk_Esin> <http://www.w3.org/2000/01/rdf-schema#label> "Ufuk Esin"@en .
+<http://dbpedia.org/resource/E._Wyllys_Andrews_IV> <http://dbpedia.org/ontology/birthYear> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/E._Wyllys_Andrews_IV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._Wyllys_Andrews_IV> <http://www.w3.org/2000/01/rdf-schema#label> "E. Wyllys Andrews IV"@en .
+<http://dbpedia.org/resource/Ma_Chengyuan> <http://dbpedia.org/ontology/birthYear> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ma_Chengyuan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ma_Chengyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Ma Chengyuan"@en .
+<http://dbpedia.org/resource/Katherine_Routledge> <http://dbpedia.org/ontology/birthYear> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Katherine_Routledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Katherine_Routledge> <http://www.w3.org/2000/01/rdf-schema#label> "Katherine Routledge"@en .
+<http://dbpedia.org/resource/Touraj_Daryaee> <http://dbpedia.org/ontology/birthYear> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Touraj_Daryaee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Touraj_Daryaee> <http://www.w3.org/2000/01/rdf-schema#label> "Touraj Daryaee"@en .
+<http://dbpedia.org/resource/Amelia_Edwards> <http://dbpedia.org/ontology/birthYear> "1831"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Amelia_Edwards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Amelia_Edwards> <http://www.w3.org/2000/01/rdf-schema#label> "Amelia Edwards"@en .
+<http://dbpedia.org/resource/Ranuccio_Bianchi_Bandinelli> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ranuccio_Bianchi_Bandinelli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ranuccio_Bianchi_Bandinelli> <http://www.w3.org/2000/01/rdf-schema#label> "Ranuccio Bianchi Bandinelli"@en .
+<http://dbpedia.org/resource/Marija_Gimbutas> <http://dbpedia.org/ontology/birthYear> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marija_Gimbutas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marija_Gimbutas> <http://www.w3.org/2000/01/rdf-schema#label> "Marija Gimbutas"@en .
+<http://dbpedia.org/resource/Chen_Mengjia> <http://dbpedia.org/ontology/birthYear> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chen_Mengjia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Chen_Mengjia> <http://www.w3.org/2000/01/rdf-schema#label> "Chen Mengjia"@en .
+<http://dbpedia.org/resource/Glyn_Daniel> <http://dbpedia.org/ontology/birthYear> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Glyn_Daniel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Glyn_Daniel> <http://www.w3.org/2000/01/rdf-schema#label> "Glyn Daniel"@en .
+<http://dbpedia.org/resource/Barbara_Borg> <http://dbpedia.org/ontology/birthYear> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Barbara_Borg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Barbara_Borg> <http://www.w3.org/2000/01/rdf-schema#label> "Barbara Borg"@en .
+<http://dbpedia.org/resource/Charles_Thomas_Newton> <http://dbpedia.org/ontology/birthYear> "1816"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Charles_Thomas_Newton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Charles_Thomas_Newton> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Thomas Newton"@en .
+<http://dbpedia.org/resource/Jotham_Johnson> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jotham_Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jotham_Johnson> <http://www.w3.org/2000/01/rdf-schema#label> "Jotham Johnson"@en .
+<http://dbpedia.org/resource/Francis_Pryor> <http://dbpedia.org/ontology/birthYear> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Francis_Pryor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Francis_Pryor> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Pryor"@en .
+<http://dbpedia.org/resource/Glenn_Albert_Black> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Glenn_Albert_Black> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Glenn_Albert_Black> <http://www.w3.org/2000/01/rdf-schema#label> "Glenn Albert Black"@en .
+<http://dbpedia.org/resource/Siran_Upendra_Deraniyagala> <http://dbpedia.org/ontology/birthYear> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Siran_Upendra_Deraniyagala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Siran_Upendra_Deraniyagala> <http://www.w3.org/2000/01/rdf-schema#label> "Siran Upendra Deraniyagala"@en .
+<http://dbpedia.org/resource/Youssef_Hourany> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Youssef_Hourany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Youssef_Hourany> <http://www.w3.org/2000/01/rdf-schema#label> "Youssef Hourany"@en .
+<http://dbpedia.org/resource/Honor_Frost> <http://dbpedia.org/ontology/birthYear> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Honor_Frost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Honor_Frost> <http://www.w3.org/2000/01/rdf-schema#label> "Honor Frost"@en .
+<http://dbpedia.org/resource/Clarence_Bicknell> <http://dbpedia.org/ontology/birthYear> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Clarence_Bicknell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Clarence_Bicknell> <http://www.w3.org/2000/01/rdf-schema#label> "Clarence Bicknell"@en .
+<http://dbpedia.org/resource/Augustus_Le_Plongeon> <http://dbpedia.org/ontology/birthYear> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Augustus_Le_Plongeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Augustus_Le_Plongeon> <http://www.w3.org/2000/01/rdf-schema#label> "Augustus Le Plongeon"@en .
+<http://dbpedia.org/resource/George_Henry_Chase> <http://dbpedia.org/ontology/birthYear> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/George_Henry_Chase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/George_Henry_Chase> <http://www.w3.org/2000/01/rdf-schema#label> "George Henry Chase"@en .
+<http://dbpedia.org/resource/Gertrud_Dorka> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gertrud_Dorka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gertrud_Dorka> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrud Dorka"@en .
+<http://dbpedia.org/resource/Richard_Bradley_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_Bradley_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Bradley_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Bradley (archaeologist)"@en .
+<http://dbpedia.org/resource/Richard_Hodges_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_Hodges_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Hodges_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Hodges (archaeologist)"@en .
+<http://dbpedia.org/resource/William_Boyd_Dawkins> <http://dbpedia.org/ontology/birthYear> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_Boyd_Dawkins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Boyd_Dawkins> <http://www.w3.org/2000/01/rdf-schema#label> "William Boyd Dawkins"@en .
+<http://dbpedia.org/resource/Carenza_Lewis> <http://dbpedia.org/ontology/birthYear> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carenza_Lewis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carenza_Lewis> <http://www.w3.org/2000/01/rdf-schema#label> "Carenza Lewis"@en .
+<http://dbpedia.org/resource/Carmel_Schrire> <http://dbpedia.org/ontology/birthYear> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carmel_Schrire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carmel_Schrire> <http://www.w3.org/2000/01/rdf-schema#label> "Carmel Schrire"@en .
+<http://dbpedia.org/resource/Kenneth_Oakley> <http://dbpedia.org/ontology/birthYear> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kenneth_Oakley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kenneth_Oakley> <http://www.w3.org/2000/01/rdf-schema#label> "Kenneth Oakley"@en .
+<http://dbpedia.org/resource/Kwang-chih_Chang> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kwang-chih_Chang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kwang-chih_Chang> <http://www.w3.org/2000/01/rdf-schema#label> "Kwang-chih Chang"@en .
+<http://dbpedia.org/resource/Phil_Harding_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Phil_Harding_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Phil_Harding_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Phil Harding (archaeologist)"@en .
+<http://dbpedia.org/resource/Sre\u010Dko_Brodar> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sre\u010Dko_Brodar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Sre\u010Dko_Brodar> <http://www.w3.org/2000/01/rdf-schema#label> "Sre\u010Dko Brodar"@en .
+<http://dbpedia.org/resource/Josephine_Flood> <http://dbpedia.org/ontology/birthYear> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Josephine_Flood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Josephine_Flood> <http://www.w3.org/2000/01/rdf-schema#label> "Josephine Flood"@en .
+<http://dbpedia.org/resource/Lili_Kaelas> <http://dbpedia.org/ontology/birthYear> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lili_Kaelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lili_Kaelas> <http://www.w3.org/2000/01/rdf-schema#label> "Lili Kaelas"@en .
+<http://dbpedia.org/resource/Andr\u00E9_Leroi-Gourhan> <http://dbpedia.org/ontology/birthYear> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Andr\u00E9_Leroi-Gourhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Andr\u00E9_Leroi-Gourhan> <http://www.w3.org/2000/01/rdf-schema#label> "Andr\u00E9 Leroi-Gourhan"@en .
+<http://dbpedia.org/resource/Lewis_Binford> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lewis_Binford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lewis_Binford> <http://www.w3.org/2000/01/rdf-schema#label> "Lewis Binford"@en .
+<http://dbpedia.org/resource/Raymond_Dart> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Raymond_Dart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Raymond_Dart> <http://www.w3.org/2000/01/rdf-schema#label> "Raymond Dart"@en .
+<http://dbpedia.org/resource/Cyril_Fox> <http://dbpedia.org/ontology/birthYear> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Cyril_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cyril_Fox> <http://www.w3.org/2000/01/rdf-schema#label> "Cyril Fox"@en .
+<http://dbpedia.org/resource/Elizabeth_Brumfiel> <http://dbpedia.org/ontology/birthYear> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elizabeth_Brumfiel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Elizabeth_Brumfiel> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth Brumfiel"@en .
+<http://dbpedia.org/resource/Elizabeth_French> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elizabeth_French> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Elizabeth_French> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth French"@en .
+<http://dbpedia.org/resource/Sharada_Srinivasan> <http://dbpedia.org/ontology/birthYear> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sharada_Srinivasan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Sharada_Srinivasan> <http://www.w3.org/2000/01/rdf-schema#label> "Sharada Srinivasan"@en .
+<http://dbpedia.org/resource/John_C._Whittaker> <http://dbpedia.org/ontology/birthYear> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_C._Whittaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_C._Whittaker> <http://www.w3.org/2000/01/rdf-schema#label> "John C. Whittaker"@en .
+<http://dbpedia.org/resource/Nancy_Lapp> <http://dbpedia.org/ontology/birthYear> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Nancy_Lapp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nancy_Lapp> <http://www.w3.org/2000/01/rdf-schema#label> "Nancy Lapp"@en .
+<http://dbpedia.org/resource/Jean-Philippe_Lauer> <http://dbpedia.org/ontology/birthYear> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jean-Philippe_Lauer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jean-Philippe_Lauer> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-Philippe Lauer"@en .
+<http://dbpedia.org/resource/Trude_Dothan> <http://dbpedia.org/ontology/birthYear> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trude_Dothan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Trude_Dothan> <http://www.w3.org/2000/01/rdf-schema#label> "Trude Dothan"@en .
+<http://dbpedia.org/resource/Heinrich_Schliemann> <http://dbpedia.org/ontology/birthYear> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Heinrich_Schliemann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Heinrich_Schliemann> <http://www.w3.org/2000/01/rdf-schema#label> "Heinrich Schliemann"@en .
+<http://dbpedia.org/resource/Gaston_Maspero> <http://dbpedia.org/ontology/birthYear> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gaston_Maspero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gaston_Maspero> <http://www.w3.org/2000/01/rdf-schema#label> "Gaston Maspero"@en .
+<http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury> <http://dbpedia.org/ontology/birthYear> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury> <http://www.w3.org/2000/01/rdf-schema#label> "John Lubbock, 1st Baron Avebury"@en .
+<http://dbpedia.org/resource/Oscar_Montelius> <http://dbpedia.org/ontology/birthYear> "1843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Oscar_Montelius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Oscar_Montelius> <http://www.w3.org/2000/01/rdf-schema#label> "Oscar Montelius"@en .
+<http://dbpedia.org/resource/Brian_M._Fagan> <http://dbpedia.org/ontology/birthYear> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Brian_M._Fagan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Brian_M._Fagan> <http://www.w3.org/2000/01/rdf-schema#label> "Brian M. Fagan"@en .
+<http://dbpedia.org/resource/George_Bass_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/George_Bass_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/George_Bass_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "George Bass (archaeologist)"@en .
+<http://dbpedia.org/resource/William_Mitchell_Ramsay> <http://dbpedia.org/ontology/birthYear> "1851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_Mitchell_Ramsay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Mitchell_Ramsay> <http://www.w3.org/2000/01/rdf-schema#label> "William Mitchell Ramsay"@en .
+<http://dbpedia.org/resource/James_Henry_Breasted> <http://dbpedia.org/ontology/birthYear> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_Henry_Breasted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_Henry_Breasted> <http://www.w3.org/2000/01/rdf-schema#label> "James Henry Breasted"@en .
+<http://dbpedia.org/resource/John_Howland_Rowe> <http://dbpedia.org/ontology/birthYear> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Howland_Rowe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Howland_Rowe> <http://www.w3.org/2000/01/rdf-schema#label> "John Howland Rowe"@en .
+<http://dbpedia.org/resource/Augustus_Pitt_Rivers> <http://dbpedia.org/ontology/birthYear> "1827"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Augustus_Pitt_Rivers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Augustus_Pitt_Rivers> <http://www.w3.org/2000/01/rdf-schema#label> "Augustus Pitt Rivers"@en .
+<http://dbpedia.org/resource/Eleazar_Sukenik> <http://dbpedia.org/ontology/birthYear> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Eleazar_Sukenik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Eleazar_Sukenik> <http://www.w3.org/2000/01/rdf-schema#label> "Eleazar Sukenik"@en .
+<http://dbpedia.org/resource/Sabatino_Moscati> <http://dbpedia.org/ontology/birthYear> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sabatino_Moscati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Sabatino_Moscati> <http://www.w3.org/2000/01/rdf-schema#label> "Sabatino Moscati"@en .
+<http://dbpedia.org/resource/Mike_Morwood> <http://dbpedia.org/ontology/birthYear> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mike_Morwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mike_Morwood> <http://www.w3.org/2000/01/rdf-schema#label> "Mike Morwood"@en .
+<http://dbpedia.org/resource/John_Bryan_Ward-Perkins> <http://dbpedia.org/ontology/birthYear> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Bryan_Ward-Perkins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Bryan_Ward-Perkins> <http://www.w3.org/2000/01/rdf-schema#label> "John Bryan Ward-Perkins"@en .
+<http://dbpedia.org/resource/B._B._Lal> <http://dbpedia.org/ontology/birthYear> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/B._B._Lal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/B._B._Lal> <http://www.w3.org/2000/01/rdf-schema#label> "B. B. Lal"@en .
+<http://dbpedia.org/resource/O._G._S._Crawford> <http://dbpedia.org/ontology/birthYear> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/O._G._S._Crawford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/O._G._S._Crawford> <http://www.w3.org/2000/01/rdf-schema#label> "O. G. S. Crawford"@en .
+<http://dbpedia.org/resource/Ronny_Reich> <http://dbpedia.org/ontology/birthYear> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ronny_Reich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ronny_Reich> <http://www.w3.org/2000/01/rdf-schema#label> "Ronny Reich"@en .
+<http://dbpedia.org/resource/R\u00FAaidhr\u00ED_de_Valera> <http://dbpedia.org/ontology/birthYear> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/R\u00FAaidhr\u00ED_de_Valera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/R\u00FAaidhr\u00ED_de_Valera> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00FAaidhr\u00ED de Valera"@en .
+<http://dbpedia.org/resource/Wang_Zhongshu> <http://dbpedia.org/ontology/birthYear> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wang_Zhongshu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Wang_Zhongshu> <http://www.w3.org/2000/01/rdf-schema#label> "Wang Zhongshu"@en .
+<http://dbpedia.org/resource/Stuart_Piggott> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stuart_Piggott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stuart_Piggott> <http://www.w3.org/2000/01/rdf-schema#label> "Stuart Piggott"@en .
+<http://dbpedia.org/resource/Christopher_Gaffney_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Christopher_Gaffney_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Christopher_Gaffney_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Christopher Gaffney (archaeologist)"@en .
+<http://dbpedia.org/resource/Christopher_Hawkes> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Christopher_Hawkes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Christopher_Hawkes> <http://www.w3.org/2000/01/rdf-schema#label> "Christopher Hawkes"@en .
+<http://dbpedia.org/resource/Grigore_Tocilescu> <http://dbpedia.org/ontology/birthYear> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Grigore_Tocilescu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Grigore_Tocilescu> <http://www.w3.org/2000/01/rdf-schema#label> "Grigore Tocilescu"@en .
+<http://dbpedia.org/resource/James_Bennett_Griffin> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_Bennett_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_Bennett_Griffin> <http://www.w3.org/2000/01/rdf-schema#label> "James Bennett Griffin"@en .
+<http://dbpedia.org/resource/Hilary_Deacon> <http://dbpedia.org/ontology/birthYear> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Hilary_Deacon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hilary_Deacon> <http://www.w3.org/2000/01/rdf-schema#label> "Hilary Deacon"@en .
+<http://dbpedia.org/resource/Joseph_George_Cumming> <http://dbpedia.org/ontology/birthYear> "1812"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Joseph_George_Cumming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Joseph_George_Cumming> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph George Cumming"@en .
+<http://dbpedia.org/resource/Richard_Indreko> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Richard_Indreko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Indreko> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Indreko"@en .
+<http://dbpedia.org/resource/Roger_Duff> <http://dbpedia.org/ontology/birthYear> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Roger_Duff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Roger_Duff> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Duff"@en .
+<http://dbpedia.org/resource/David_L._Clarke> <http://dbpedia.org/ontology/birthYear> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/David_L._Clarke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/David_L._Clarke> <http://www.w3.org/2000/01/rdf-schema#label> "David L. Clarke"@en .
+<http://dbpedia.org/resource/Roland_\u00C9tienne_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Roland_\u00C9tienne_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Roland_\u00C9tienne_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Roland \u00C9tienne (archaeologist)"@en .
+<http://dbpedia.org/resource/Amihai_Mazar> <http://dbpedia.org/ontology/birthYear> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Amihai_Mazar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Amihai_Mazar> <http://www.w3.org/2000/01/rdf-schema#label> "Amihai Mazar"@en .
+<http://dbpedia.org/resource/Parviz_Varjavand> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Parviz_Varjavand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Parviz_Varjavand> <http://www.w3.org/2000/01/rdf-schema#label> "Parviz Varjavand"@en .
+<http://dbpedia.org/resource/Paul_Mellars> <http://dbpedia.org/ontology/birthYear> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Paul_Mellars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Paul_Mellars> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Mellars"@en .
+<http://dbpedia.org/resource/Alexandru_Vulpe> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alexandru_Vulpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alexandru_Vulpe> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandru Vulpe"@en .
+<http://dbpedia.org/resource/Constantin_S._Nicol\u0103escu-Plop\u0219or> <http://dbpedia.org/ontology/birthYear> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Constantin_S._Nicol\u0103escu-Plop\u0219or> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Constantin_S._Nicol\u0103escu-Plop\u0219or> <http://www.w3.org/2000/01/rdf-schema#label> "Constantin S. Nicol\u0103escu-Plop\u0219or"@en .
+<http://dbpedia.org/resource/Victor_Spinei> <http://dbpedia.org/ontology/birthYear> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Victor_Spinei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Victor_Spinei> <http://www.w3.org/2000/01/rdf-schema#label> "Victor Spinei"@en .
+<http://dbpedia.org/resource/Lamia_Al-Gailani_Werr> <http://dbpedia.org/ontology/birthYear> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lamia_Al-Gailani_Werr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lamia_Al-Gailani_Werr> <http://www.w3.org/2000/01/rdf-schema#label> "Lamia Al-Gailani Werr"@en .
+<http://dbpedia.org/resource/Carol_van_Driel-Murray> <http://dbpedia.org/ontology/birthYear> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carol_van_Driel-Murray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carol_van_Driel-Murray> <http://www.w3.org/2000/01/rdf-schema#label> "Carol van Driel-Murray"@en .
+<http://dbpedia.org/resource/Marc_Waelkens> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marc_Waelkens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marc_Waelkens> <http://www.w3.org/2000/01/rdf-schema#label> "Marc Waelkens"@en .
+<http://dbpedia.org/resource/John_C._Trever> <http://dbpedia.org/ontology/birthYear> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_C._Trever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_C._Trever> <http://www.w3.org/2000/01/rdf-schema#label> "John C. Trever"@en .
+<http://dbpedia.org/resource/Dong_Zuobin> <http://dbpedia.org/ontology/birthYear> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dong_Zuobin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dong_Zuobin> <http://www.w3.org/2000/01/rdf-schema#label> "Dong Zuobin"@en .
+<http://dbpedia.org/resource/Seifollah_Kambakhshfard> <http://dbpedia.org/ontology/birthYear> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Seifollah_Kambakhshfard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Seifollah_Kambakhshfard> <http://www.w3.org/2000/01/rdf-schema#label> "Seifollah Kambakhshfard"@en .
+<http://dbpedia.org/resource/William_W._Fitzhugh> <http://dbpedia.org/ontology/birthYear> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_W._Fitzhugh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_W._Fitzhugh> <http://www.w3.org/2000/01/rdf-schema#label> "William W. Fitzhugh"@en .
+<http://dbpedia.org/resource/John_Clegg_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Clegg_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Clegg_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "John Clegg (archaeologist)"@en .
+<http://dbpedia.org/resource/Emil_Haury> <http://dbpedia.org/ontology/birthYear> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Emil_Haury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Emil_Haury> <http://www.w3.org/2000/01/rdf-schema#label> "Emil Haury"@en .
+<http://dbpedia.org/resource/Gordon_Hillman> <http://dbpedia.org/ontology/birthYear> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gordon_Hillman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gordon_Hillman> <http://www.w3.org/2000/01/rdf-schema#label> "Gordon Hillman"@en .
+<http://dbpedia.org/resource/Ron_Vanderwal> <http://dbpedia.org/ontology/birthYear> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ron_Vanderwal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ron_Vanderwal> <http://www.w3.org/2000/01/rdf-schema#label> "Ron Vanderwal"@en .
+<http://dbpedia.org/resource/John_Wesley_Gilbert> <http://dbpedia.org/ontology/birthYear> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Wesley_Gilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Wesley_Gilbert> <http://www.w3.org/2000/01/rdf-schema#label> "John Wesley Gilbert"@en .
+<http://dbpedia.org/resource/John_Wymer> <http://dbpedia.org/ontology/birthYear> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Wymer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Wymer> <http://www.w3.org/2000/01/rdf-schema#label> "John Wymer"@en .
+<http://dbpedia.org/resource/R._Nagaswamy> <http://dbpedia.org/ontology/birthYear> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/R._Nagaswamy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/R._Nagaswamy> <http://www.w3.org/2000/01/rdf-schema#label> "R. Nagaswamy"@en .
+<http://dbpedia.org/resource/Jean-Fran\u00E7ois_Jarrige> <http://dbpedia.org/ontology/birthYear> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jean-Fran\u00E7ois_Jarrige> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jean-Fran\u00E7ois_Jarrige> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-Fran\u00E7ois Jarrige"@en .
+<http://dbpedia.org/resource/Hugh_O'Neill_Hencken> <http://dbpedia.org/ontology/birthYear> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Hugh_O'Neill_Hencken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hugh_O'Neill_Hencken> <http://www.w3.org/2000/01/rdf-schema#label> "Hugh O'Neill Hencken"@en .
+<http://dbpedia.org/resource/Paolo_Biagi> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Paolo_Biagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Paolo_Biagi> <http://www.w3.org/2000/01/rdf-schema#label> "Paolo Biagi"@en .
+<http://dbpedia.org/resource/Susan_Bulmer> <http://dbpedia.org/ontology/birthYear> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Susan_Bulmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Susan_Bulmer> <http://www.w3.org/2000/01/rdf-schema#label> "Susan Bulmer"@en .
+<http://dbpedia.org/resource/Sarah_Milledge_Nelson> <http://dbpedia.org/ontology/birthYear> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sarah_Milledge_Nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Sarah_Milledge_Nelson> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Milledge Nelson"@en .
+<http://dbpedia.org/resource/Senarath_Paranavithana> <http://dbpedia.org/ontology/birthYear> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Senarath_Paranavithana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Senarath_Paranavithana> <http://www.w3.org/2000/01/rdf-schema#label> "Senarath Paranavithana"@en .
+<http://dbpedia.org/resource/Cleo_Rickman_Fitch> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Cleo_Rickman_Fitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cleo_Rickman_Fitch> <http://www.w3.org/2000/01/rdf-schema#label> "Cleo Rickman Fitch"@en .
+<http://dbpedia.org/resource/Marion_Rawson> <http://dbpedia.org/ontology/birthYear> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marion_Rawson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marion_Rawson> <http://www.w3.org/2000/01/rdf-schema#label> "Marion Rawson"@en .
+<http://dbpedia.org/resource/Mai_Yinghao> <http://dbpedia.org/ontology/birthYear> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mai_Yinghao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mai_Yinghao> <http://www.w3.org/2000/01/rdf-schema#label> "Mai Yinghao"@en .
+<http://dbpedia.org/resource/Louise_Zarmati> <http://dbpedia.org/ontology/birthYear> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Louise_Zarmati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Louise_Zarmati> <http://www.w3.org/2000/01/rdf-schema#label> "Louise Zarmati"@en .
+<http://dbpedia.org/resource/Carl_L._Thunberg> <http://dbpedia.org/ontology/birthYear> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carl_L._Thunberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carl_L._Thunberg> <http://www.w3.org/2000/01/rdf-schema#label> "Carl L. Thunberg"@en .
+<http://dbpedia.org/resource/Lotte_Hedeager> <http://dbpedia.org/ontology/birthYear> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lotte_Hedeager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lotte_Hedeager> <http://www.w3.org/2000/01/rdf-schema#label> "Lotte Hedeager"@en .
+<http://dbpedia.org/resource/Lynne_Goldstein> <http://dbpedia.org/ontology/birthYear> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lynne_Goldstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lynne_Goldstein> <http://www.w3.org/2000/01/rdf-schema#label> "Lynne Goldstein"@en .
+<http://dbpedia.org/resource/Marion_Stirling_Pugh> <http://dbpedia.org/ontology/birthYear> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Marion_Stirling_Pugh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Marion_Stirling_Pugh> <http://www.w3.org/2000/01/rdf-schema#label> "Marion Stirling Pugh"@en .
+<http://dbpedia.org/resource/Chen_Tiemei> <http://dbpedia.org/ontology/birthYear> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chen_Tiemei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Chen_Tiemei> <http://www.w3.org/2000/01/rdf-schema#label> "Chen Tiemei"@en .
+<http://dbpedia.org/resource/Susan_Sherratt> <http://dbpedia.org/ontology/birthYear> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Susan_Sherratt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Susan_Sherratt> <http://www.w3.org/2000/01/rdf-schema#label> "Susan Sherratt"@en .
+<http://dbpedia.org/resource/Margaret_Ursula_Jones> <http://dbpedia.org/ontology/birthYear> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Margaret_Ursula_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Margaret_Ursula_Jones> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Ursula Jones"@en .
+<http://dbpedia.org/resource/Janette_Deacon> <http://dbpedia.org/ontology/birthYear> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Janette_Deacon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Janette_Deacon> <http://www.w3.org/2000/01/rdf-schema#label> "Janette Deacon"@en .
+<http://dbpedia.org/resource/Caroline_Wickham-Jones> <http://dbpedia.org/ontology/birthYear> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Caroline_Wickham-Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Caroline_Wickham-Jones> <http://www.w3.org/2000/01/rdf-schema#label> "Caroline Wickham-Jones"@en .
+<http://dbpedia.org/resource/Katsuhiko_Ohnuma> <http://dbpedia.org/ontology/birthYear> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Katsuhiko_Ohnuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Katsuhiko_Ohnuma> <http://www.w3.org/2000/01/rdf-schema#label> "Katsuhiko Ohnuma"@en .
+<http://dbpedia.org/resource/Adela_Breton> <http://dbpedia.org/ontology/birthYear> "1849"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Adela_Breton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Adela_Breton> <http://www.w3.org/2000/01/rdf-schema#label> "Adela Breton"@en .
+<http://dbpedia.org/resource/Crystal_Bennett> <http://dbpedia.org/ontology/birthYear> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Crystal_Bennett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Crystal_Bennett> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bennett"@en .
+<http://dbpedia.org/resource/William_Thompson_Watkin> <http://dbpedia.org/ontology/birthYear> "1836"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/William_Thompson_Watkin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Thompson_Watkin> <http://www.w3.org/2000/01/rdf-schema#label> "William Thompson Watkin"@en .
+<http://dbpedia.org/resource/Martha_Sharp_Joukowsky> <http://dbpedia.org/ontology/birthYear> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Martha_Sharp_Joukowsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Martha_Sharp_Joukowsky> <http://www.w3.org/2000/01/rdf-schema#label> "Martha Sharp Joukowsky"@en .
+<http://dbpedia.org/resource/Ida_Hill> <http://dbpedia.org/ontology/birthYear> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ida_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ida_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Ida Hill"@en .
+<http://dbpedia.org/resource/Helen_Waterhouse> <http://dbpedia.org/ontology/birthYear> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Helen_Waterhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Helen_Waterhouse> <http://www.w3.org/2000/01/rdf-schema#label> "Helen Waterhouse"@en .
+<http://dbpedia.org/resource/Roger_Jacobi> <http://dbpedia.org/ontology/birthYear> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Roger_Jacobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Roger_Jacobi> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Jacobi"@en .
+<http://dbpedia.org/resource/Fumiko_Ikawa-Smith> <http://dbpedia.org/ontology/birthYear> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fumiko_Ikawa-Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fumiko_Ikawa-Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Fumiko Ikawa-Smith"@en .
+<http://dbpedia.org/resource/Francis_Kelsey> <http://dbpedia.org/ontology/birthYear> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Francis_Kelsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Francis_Kelsey> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Kelsey"@en .
+<http://dbpedia.org/resource/Robert_Hamilton_(archaeologist)> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Robert_Hamilton_(archaeologist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_Hamilton_(archaeologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Hamilton (archaeologist)"@en .
+<http://dbpedia.org/resource/Anne_Strachan_Robertson> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Anne_Strachan_Robertson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Anne_Strachan_Robertson> <http://www.w3.org/2000/01/rdf-schema#label> "Anne Strachan Robertson"@en .
+<http://dbpedia.org/resource/Mercy_Seiradaki> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mercy_Seiradaki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mercy_Seiradaki> <http://www.w3.org/2000/01/rdf-schema#label> "Mercy Seiradaki"@en .
+<http://dbpedia.org/resource/James_B._Stoltman> <http://dbpedia.org/ontology/birthYear> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/James_B._Stoltman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_B._Stoltman> <http://www.w3.org/2000/01/rdf-schema#label> "James B. Stoltman"@en .
+<http://dbpedia.org/resource/Mary_Beaudry> <http://dbpedia.org/ontology/birthYear> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mary_Beaudry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mary_Beaudry> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Beaudry"@en .
+<http://dbpedia.org/resource/Su_Bai> <http://dbpedia.org/ontology/birthYear> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Su_Bai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Su_Bai> <http://www.w3.org/2000/01/rdf-schema#label> "Su Bai"@en .
+<http://dbpedia.org/resource/E._C._L._During_Caspers> <http://dbpedia.org/ontology/birthYear> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/E._C._L._During_Caspers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._C._L._During_Caspers> <http://www.w3.org/2000/01/rdf-schema#label> "E. C. L. During Caspers"@en .
+<http://dbpedia.org/resource/Elsie_Jury> <http://dbpedia.org/ontology/birthYear> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elsie_Jury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Elsie_Jury> <http://www.w3.org/2000/01/rdf-schema#label> "Elsie Jury"@en .
+<http://dbpedia.org/resource/Grafton_Elliot_Smith> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q733942> .
+<http://dbpedia.org/resource/John_Garstang> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q733602> .
+<http://dbpedia.org/resource/Mortimer_Wheeler> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q733878> .
+<http://dbpedia.org/resource/Harry_Charles_Purvis_Bell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1562561> .
+<http://dbpedia.org/resource/Jacquetta_Hawkes> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1570201> .
+<http://dbpedia.org/resource/Marie_Hackin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3292570> .
+<http://dbpedia.org/resource/Paul_Bahn> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3291415> .
+<http://dbpedia.org/resource/Norman_Hammond> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7052320> .
+<http://dbpedia.org/resource/Bertha_Parker_Pallan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15115813> .
+<http://dbpedia.org/resource/Birgitta_Hoffmann> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15130035> .
+<http://dbpedia.org/resource/Brian_Dobson_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15130021> .
+<http://dbpedia.org/resource/George_Eogan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15130280> .
+<http://dbpedia.org/resource/James_Stewart_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15129990> .
+<http://dbpedia.org/resource/Linda_Braidwood> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15129802> .
+<http://dbpedia.org/resource/Roderick_Salisbury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15129944> .
+<http://dbpedia.org/resource/Roger_Cribb> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15129983> .
+<http://dbpedia.org/resource/Irving_Rouse> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16003639> .
+<http://dbpedia.org/resource/Dorothy_Lamb> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28813081> .
+<http://dbpedia.org/resource/Alice_Leslie_Walker> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29441066> .
+<http://dbpedia.org/resource/Bert_Hodge_Hill> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29378397> .
+<http://dbpedia.org/resource/David_L._Kennedy> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26251182> .
+<http://dbpedia.org/resource/Elinor_Mullett_Husselman> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q40887618> .
+<http://dbpedia.org/resource/Vincent_Gaffney> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q44833148> .
+<http://dbpedia.org/resource/Joan_du_Plat_Taylor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1311961> .
+<http://dbpedia.org/resource/Fred_Vargas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q237087> .
+<http://dbpedia.org/resource/Hiram_Bingham_III> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q237220> .
+<http://dbpedia.org/resource/Kathleen_Kenyon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q238890> .
+<http://dbpedia.org/resource/Austen_Henry_Layard> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q275013> .
+<http://dbpedia.org/resource/Dorothy_Garrod> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q275622> .
+<http://dbpedia.org/resource/Ernst_Curtius> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61407> .
+<http://dbpedia.org/resource/Gustaf_Kossinna> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q63224> .
+<http://dbpedia.org/resource/Ludwig_Borchardt> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60758> .
+<http://dbpedia.org/resource/Manfred_Korfmann> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q63063> .
+<http://dbpedia.org/resource/Robert_Koldewey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60700> .
+<http://dbpedia.org/resource/Wilhelm_D\u00F6rpfeld> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60239> .
+<http://dbpedia.org/resource/William_Robertson_Smith> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q461733> .
+<http://dbpedia.org/resource/Karl_Butzer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q214478> .
+<http://dbpedia.org/resource/Ekrem_Akurgal> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q678483> .
+<http://dbpedia.org/resource/Fran\u00E7ois_Lenormant> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1347918> .
+<http://dbpedia.org/resource/Constantin_Daicoviciu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q945299> .
+<http://dbpedia.org/resource/Nahman_Avigad> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1963699> .
+<http://dbpedia.org/resource/Gordon_Willey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2061236> .
+<http://dbpedia.org/resource/Margaret_Murray> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q242542> .
+<http://dbpedia.org/resource/Alfonso_Caso> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q596792> .
+<http://dbpedia.org/resource/Avraham_Biran> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q726223> .
+<http://dbpedia.org/resource/Israel_Finkelstein> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q726264> .
+<http://dbpedia.org/resource/Florin_Curta> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1430131> .
+<http://dbpedia.org/resource/Fereidoun_Biglari> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q983115> .
+<http://dbpedia.org/resource/Richard_J._C._Atkinson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1053783> .
+<http://dbpedia.org/resource/Tessa_Wheeler> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2406260> .
+<http://dbpedia.org/resource/Louis_Dupree_(professor)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3918328> .
+<http://dbpedia.org/resource/Cynthia_Irwin-Williams> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4203100> .
+<http://dbpedia.org/resource/Ahmad_Hasan_Dani> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4695333> .
+<http://dbpedia.org/resource/Aileen_Fox> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4697025> .
+<http://dbpedia.org/resource/Barry_Cunliffe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q164566> .
+<http://dbpedia.org/resource/Jole_Bovio_Marconi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3809793> .
+<http://dbpedia.org/resource/Maud_Cunnington> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4212534> .
+<http://dbpedia.org/resource/Warren_K._Moorehead> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7970314> .
+<http://dbpedia.org/resource/Henrieta_Todorova> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19842108> .
+<http://dbpedia.org/resource/Isabel_McBryde> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19593762> .
+<http://dbpedia.org/resource/Jadwiga_Szeptycka> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11715981> .
+<http://dbpedia.org/resource/Richard_Leakey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q318960> .
+<http://dbpedia.org/resource/Gerhard_Bersu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q92269> .
+<http://dbpedia.org/resource/Jacques_Breuer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q86952> .
+<http://dbpedia.org/resource/Klaus_Schmidt_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88419> .
+<http://dbpedia.org/resource/Larissa_Bonfante> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q429177> .
+<http://dbpedia.org/resource/Alexander_Cunningham> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q455430> .
+<http://dbpedia.org/resource/Max_Mallowan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q454442> .
+<http://dbpedia.org/resource/William_F._Albright> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q451799> .
+<http://dbpedia.org/resource/Andr\u00E9_Parrot> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q522200> .
+<http://dbpedia.org/resource/Harriet_Boyd_Hawes> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q519258> .
+<http://dbpedia.org/resource/Malcolm_Todd> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q873420> .
+<http://dbpedia.org/resource/Julio_C._Tello> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1395135> .
+<http://dbpedia.org/resource/Norman_Tindale> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2119932> .
+<http://dbpedia.org/resource/Alice_Kober> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2633581> .
+<http://dbpedia.org/resource/Alasdair_Whittle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4470236> .
+<http://dbpedia.org/resource/Claire_Smith_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5125314> .
+<http://dbpedia.org/resource/Clarence_Bloomfield_Moore> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5126408> .
+<http://dbpedia.org/resource/Diane_Barwick> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5271396> .
+<http://dbpedia.org/resource/Dilip_Kumar_Chakrabarti> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5276804> .
+<http://dbpedia.org/resource/Donald_Lathrap> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5294691> .
+<http://dbpedia.org/resource/Pasko_Kuzman> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7142213> .
+<http://dbpedia.org/resource/Patty_Jo_Watson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7148708> .
+<http://dbpedia.org/resource/Malcolm_H._Wiener> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6742359> .
+<http://dbpedia.org/resource/Stanley_South> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7599957> .
+<http://dbpedia.org/resource/Timothy_W._Potter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7807589> .
+<http://dbpedia.org/resource/Christiane_Desroches_Noblecourt> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q270319> .
+<http://dbpedia.org/resource/W._F._Grimes> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q74605> .
+<http://dbpedia.org/resource/Ricardo_Eichmann> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q102744> .
+<http://dbpedia.org/resource/Einar_Gjerstad> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q481299> .
+<http://dbpedia.org/resource/Neil_Faulkner_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q656381> .
+<http://dbpedia.org/resource/Jean_Boisselier> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q931040> .
+<http://dbpedia.org/resource/Robert_John_Braidwood> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q933418> .
+<http://dbpedia.org/resource/Eric_H._Cline> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5386640> .
+<http://dbpedia.org/resource/Peter_Garlake> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7174176> .
+<http://dbpedia.org/resource/Peter_N._Peregrine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7176033> .
+<http://dbpedia.org/resource/Gertrude_Bell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q231360> .
+<http://dbpedia.org/resource/Mary_Leakey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q231111> .
+<http://dbpedia.org/resource/Alfred_V._Kidder> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1400749> .
+<http://dbpedia.org/resource/Kazimierz_Micha\u0142owski> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1399403> .
+<http://dbpedia.org/resource/Gary_Urton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1494969> .
+<http://dbpedia.org/resource/Neil_Oliver> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1216223> .
+<http://dbpedia.org/resource/Betty_Meggers> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4898926> .
+<http://dbpedia.org/resource/Martin_Rundkvist> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6083486> .
+<http://dbpedia.org/resource/Carl_Blegen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q552469> .
+<http://dbpedia.org/resource/Victor_Loret> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q552436> .
+<http://dbpedia.org/resource/Giacomo_Boni_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q572091> .
+<http://dbpedia.org/resource/John_Boardman_(art_historian)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q566658> .
+<http://dbpedia.org/resource/Johan_Gunnar_Andersson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q954811> .
+<http://dbpedia.org/resource/Benjamin_Mazar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q817625> .
+<http://dbpedia.org/resource/Osman_Hamdi_Bey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1190012> .
+<http://dbpedia.org/resource/Li_Xueqin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1822604> .
+<http://dbpedia.org/resource/Richard_Klein_(paleoanthropologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4164276> .
+<http://dbpedia.org/resource/Gheorghe_I._Cantacuzino> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5556347> .
+<http://dbpedia.org/resource/Foss_Leach> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16887716> .
+<http://dbpedia.org/resource/Veronica_Seton-Williams> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15994804> .
+<http://dbpedia.org/resource/Ian_Hodder> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q556140> .
+<http://dbpedia.org/resource/Alireza_Shapour_Shahbazi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q562417> .
+<http://dbpedia.org/resource/Viktor_Sarianidi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q563640> .
+<http://dbpedia.org/resource/Ehud_Netzer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q573909> .
+<http://dbpedia.org/resource/Andrew_Ramsay_(geologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q506810> .
+<http://dbpedia.org/resource/Andrew_Sherratt> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q507406> .
+<http://dbpedia.org/resource/Donald_Johanson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q503293> .
+<http://dbpedia.org/resource/Ruth_Amiran> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q528775> .
+<http://dbpedia.org/resource/Jens_Jacob_Asmussen_Worsaae> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q962271> .
+<http://dbpedia.org/resource/Bruce_Trigger> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q991855> .
+<http://dbpedia.org/resource/Mike_Parker_Pearson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q998425> .
+<http://dbpedia.org/resource/Peter_Ucko> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2078738> .
+<http://dbpedia.org/resource/Ian_Graham> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q104560931> .
+<http://dbpedia.org/resource/Ian_Graham> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1238009> .
+<http://dbpedia.org/resource/John_Evans_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1246324> .
+<http://dbpedia.org/resource/Nikolaos_Platon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1243143> .
+<http://dbpedia.org/resource/Marek_Zvelebil> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2776724> .
+<http://dbpedia.org/resource/Percy_Gardner> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2778230> .
+<http://dbpedia.org/resource/Albert_Lythgoe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2831415> .
+<http://dbpedia.org/resource/Alexandru_Odobescu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2834296> .
+<http://dbpedia.org/resource/Campbell_Cowan_Edgar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2935480> .
+<http://dbpedia.org/resource/Alberto_Ruz_Lhuillier> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2528983> .
+<http://dbpedia.org/resource/Vasile_P\u00E2rvan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2534833> .
+<http://dbpedia.org/resource/Fred_Wendorf> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3086971> .
+<http://dbpedia.org/resource/Zdenko_Vinski> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3093254> .
+<http://dbpedia.org/resource/Charles_Thomas_(historian)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5082910> .
+<http://dbpedia.org/resource/James_P._Delgado> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6140767> .
+<http://dbpedia.org/resource/Edgar_Lee_Hewett> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5337343> .
+<http://dbpedia.org/resource/Martin_Biddle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6775001> .
+<http://dbpedia.org/resource/Martin_Carver> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6775123> .
+<http://dbpedia.org/resource/Edward_Thurlow_Leeds> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5345625> .
+<http://dbpedia.org/resource/Therkel_Mathiassen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7783008> .
+<http://dbpedia.org/resource/William_Greenwell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8010179> .
+<http://dbpedia.org/resource/Peter_Woodman> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28655298> .
+<http://dbpedia.org/resource/Charles_Godakumbura> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22959254> .
+<http://dbpedia.org/resource/Cajsa_S._Lund> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q23918967> .
+<http://dbpedia.org/resource/Anna_Belfer-Cohen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q59619126> .
+<http://dbpedia.org/resource/Louis_Leakey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q14837> .
+<http://dbpedia.org/resource/Manfred_Bietak> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q78894> .
+<http://dbpedia.org/resource/Hans-Georg_Stephan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q99382> .
+<http://dbpedia.org/resource/Guo_Moruo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q357821> .
+<http://dbpedia.org/resource/Leonard_Woolley> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q356134> .
+<http://dbpedia.org/resource/Yigael_Yadin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q359699> .
+<http://dbpedia.org/resource/Arthur_Evans> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q188929> .
+<http://dbpedia.org/resource/James_Theodore_Bent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3523685> .
+<http://dbpedia.org/resource/Aubrey_Burl> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3629428> .
+<http://dbpedia.org/resource/Luisa_Banti> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3840434> .
+<http://dbpedia.org/resource/James_Mellaart> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1069362> .
+<http://dbpedia.org/resource/Raissa_Calza> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3417912> .
+<http://dbpedia.org/resource/Sadegh_Malek_Shahmirzadi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7397790> .
+<http://dbpedia.org/resource/Colin_Renfrew> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q335189> .
+<http://dbpedia.org/resource/Zahi_Hawass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q140575> .
+<http://dbpedia.org/resource/Prosper_M\u00E9rim\u00E9e> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q160333> .
+<http://dbpedia.org/resource/Muazzez_\u0130lmiye_\u00C7\u0131\u011F> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q464906> .
+<http://dbpedia.org/resource/John_Marshall_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1376456> .
+<http://dbpedia.org/resource/Huang_Wenbi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1475159> .
+<http://dbpedia.org/resource/Glynn_Isaac> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1532526> .
+<http://dbpedia.org/resource/Luigi_Maria_Ugolini> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1876215> .
+<http://dbpedia.org/resource/Wil_Roebroeks> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1933482> .
+<http://dbpedia.org/resource/Eilat_Mazar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2916628> .
+<http://dbpedia.org/resource/Mick_Aston> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3326175> .
+<http://dbpedia.org/resource/Ufuk_Esin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6074344> .
+<http://dbpedia.org/resource/E._Wyllys_Andrews_IV> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6168408> .
+<http://dbpedia.org/resource/Ma_Chengyuan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6658950> .
+<http://dbpedia.org/resource/Katherine_Routledge> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6376534> .
+<http://dbpedia.org/resource/Touraj_Daryaee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7829045> .
+<http://dbpedia.org/resource/Amelia_Edwards> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q437356> .
+<http://dbpedia.org/resource/Ranuccio_Bianchi_Bandinelli> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q471179> .
+<http://dbpedia.org/resource/Marija_Gimbutas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q221084> .
+<http://dbpedia.org/resource/Chen_Mengjia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q711888> .
+<http://dbpedia.org/resource/Glyn_Daniel> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q713440> .
+<http://dbpedia.org/resource/Barbara_Borg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q807365> .
+<http://dbpedia.org/resource/Charles_Thomas_Newton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1985476> .
+<http://dbpedia.org/resource/Jotham_Johnson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1709763> .
+<http://dbpedia.org/resource/Francis_Pryor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5482233> .
+<http://dbpedia.org/resource/Glenn_Albert_Black> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5568663> .
+<http://dbpedia.org/resource/Siran_Upendra_Deraniyagala> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7529954> .
+<http://dbpedia.org/resource/Youssef_Hourany> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8059082> .
+<http://dbpedia.org/resource/Honor_Frost> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q511885> .
+<http://dbpedia.org/resource/Clarence_Bicknell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q890698> .
+<http://dbpedia.org/resource/Augustus_Le_Plongeon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q770508> .
+<http://dbpedia.org/resource/George_Henry_Chase> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1507551> .
+<http://dbpedia.org/resource/Gertrud_Dorka> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1515544> .
+<http://dbpedia.org/resource/Richard_Bradley_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2149111> .
+<http://dbpedia.org/resource/Richard_Hodges_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2149811> .
+<http://dbpedia.org/resource/William_Boyd_Dawkins> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2484394> .
+<http://dbpedia.org/resource/Carenza_Lewis> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5039038> .
+<http://dbpedia.org/resource/Carmel_Schrire> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5043324> .
+<http://dbpedia.org/resource/Kenneth_Oakley> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6390553> .
+<http://dbpedia.org/resource/Kwang-chih_Chang> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6450162> .
+<http://dbpedia.org/resource/Phil_Harding_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6932817> .
+<http://dbpedia.org/resource/Sre\u010Dko_Brodar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7585772> .
+<http://dbpedia.org/resource/Josephine_Flood> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17523828> .
+<http://dbpedia.org/resource/Lili_Kaelas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16595401> .
+<http://dbpedia.org/resource/Andr\u00E9_Leroi-Gourhan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q381678> .
+<http://dbpedia.org/resource/Lewis_Binford> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q381783> .
+<http://dbpedia.org/resource/Raymond_Dart> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q379590> .
+<http://dbpedia.org/resource/Cyril_Fox> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5200722> .
+<http://dbpedia.org/resource/Elizabeth_Brumfiel> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5362485> .
+<http://dbpedia.org/resource/Elizabeth_French> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5362803> .
+<http://dbpedia.org/resource/Sharada_Srinivasan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7489373> .
+<http://dbpedia.org/resource/John_C._Whittaker> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q67200308> .
+<http://dbpedia.org/resource/Nancy_Lapp> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q67498120> .
+<http://dbpedia.org/resource/Jean-Philippe_Lauer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q291033> .
+<http://dbpedia.org/resource/Trude_Dothan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q292849> .
+<http://dbpedia.org/resource/Heinrich_Schliemann> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q57106> .
+<http://dbpedia.org/resource/Gaston_Maspero> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q311816> .
+<http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q312503> .
+<http://dbpedia.org/resource/Oscar_Montelius> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q312397> .
+<http://dbpedia.org/resource/Brian_M._Fagan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q327789> .
+<http://dbpedia.org/resource/George_Bass_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q325869> .
+<http://dbpedia.org/resource/William_Mitchell_Ramsay> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q326308> .
+<http://dbpedia.org/resource/James_Henry_Breasted> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q365982> .
+<http://dbpedia.org/resource/John_Howland_Rowe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q366240> .
+<http://dbpedia.org/resource/Augustus_Pitt_Rivers> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q681866> .
+<http://dbpedia.org/resource/Eleazar_Sukenik> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q940013> .
+<http://dbpedia.org/resource/Sabatino_Moscati> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q938573> .
+<http://dbpedia.org/resource/Mike_Morwood> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q778944> .
+<http://dbpedia.org/resource/John_Bryan_Ward-Perkins> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q827842> .
+<http://dbpedia.org/resource/B._B._Lal> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2041442> .
+<http://dbpedia.org/resource/O._G._S._Crawford> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2032565> .
+<http://dbpedia.org/resource/Ronny_Reich> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2166093> .
+<http://dbpedia.org/resource/R\u00FAaidhr\u00ED_de_Valera> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2171462> .
+<http://dbpedia.org/resource/Wang_Zhongshu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3566119> .
+<http://dbpedia.org/resource/Stuart_Piggott> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4362439> .
+<http://dbpedia.org/resource/Christopher_Gaffney_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5112386> .
+<http://dbpedia.org/resource/Christopher_Hawkes> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5112508> .
+<http://dbpedia.org/resource/Grigore_Tocilescu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5609051> .
+<http://dbpedia.org/resource/James_Bennett_Griffin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6129680> .
+<http://dbpedia.org/resource/Hilary_Deacon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5760934> .
+<http://dbpedia.org/resource/Joseph_George_Cumming> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6283400> .
+<http://dbpedia.org/resource/Richard_Indreko> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7326676> .
+<http://dbpedia.org/resource/Roger_Duff> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7358901> .
+<http://dbpedia.org/resource/David_L._Clarke> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1175199> .
+<http://dbpedia.org/resource/Roland_\u00C9tienne_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q52770521> .
+<http://dbpedia.org/resource/Amihai_Mazar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2669138> .
+<http://dbpedia.org/resource/Parviz_Varjavand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3367081> .
+<http://dbpedia.org/resource/Paul_Mellars> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7152451> .
+<http://dbpedia.org/resource/Alexandru_Vulpe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12720407> .
+<http://dbpedia.org/resource/Constantin_S._Nicol\u0103escu-Plop\u0219or> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12725591> .
+<http://dbpedia.org/resource/Victor_Spinei> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12743402> .
+<http://dbpedia.org/resource/Lamia_Al-Gailani_Werr> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22132925> .
+<http://dbpedia.org/resource/Carol_van_Driel-Murray> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q46997908> .
+<http://dbpedia.org/resource/Marc_Waelkens> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2663136> .
+<http://dbpedia.org/resource/John_C._Trever> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6224650> .
+<http://dbpedia.org/resource/Dong_Zuobin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5953467> .
+<http://dbpedia.org/resource/Seifollah_Kambakhshfard> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5937186> .
+<http://dbpedia.org/resource/William_W._Fitzhugh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8019783> .
+<http://dbpedia.org/resource/John_Clegg_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19593928> .
+<http://dbpedia.org/resource/Emil_Haury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5371277> .
+<http://dbpedia.org/resource/Gordon_Hillman> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5585292> .
+<http://dbpedia.org/resource/Ron_Vanderwal> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21062210> .
+<http://dbpedia.org/resource/John_Wesley_Gilbert> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6263549> .
+<http://dbpedia.org/resource/John_Wymer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6265027> .
+<http://dbpedia.org/resource/R._Nagaswamy> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7273879> .
+<http://dbpedia.org/resource/Jean-Fran\u00E7ois_Jarrige> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15490843> .
+<http://dbpedia.org/resource/Hugh_O'Neill_Hencken> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30115034> .
+<http://dbpedia.org/resource/Paolo_Biagi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26924577> .
+<http://dbpedia.org/resource/Susan_Bulmer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65032064> .
+<http://dbpedia.org/resource/Sarah_Milledge_Nelson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7422608> .
+<http://dbpedia.org/resource/Senarath_Paranavithana> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7449981> .
+<http://dbpedia.org/resource/Cleo_Rickman_Fitch> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29855676> .
+<http://dbpedia.org/resource/Marion_Rawson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29617033> .
+<http://dbpedia.org/resource/Mai_Yinghao> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q32178355> .
+<http://dbpedia.org/resource/Louise_Zarmati> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61653255> .
+<http://dbpedia.org/resource/Carl_L._Thunberg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105700334> .
+<http://dbpedia.org/resource/Lotte_Hedeager> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15781048> .
+<http://dbpedia.org/resource/Lynne_Goldstein> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28047569> .
+<http://dbpedia.org/resource/Marion_Stirling_Pugh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q70139675> .
+<http://dbpedia.org/resource/Chen_Tiemei> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q63928609> .
+<http://dbpedia.org/resource/Susan_Sherratt> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q63616310> .
+<http://dbpedia.org/resource/Margaret_Ursula_Jones> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26220527> .
+<http://dbpedia.org/resource/Janette_Deacon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27448782> .
+<http://dbpedia.org/resource/Caroline_Wickham-Jones> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64009458> .
+<http://dbpedia.org/resource/Katsuhiko_Ohnuma> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107133127> .
+<http://dbpedia.org/resource/Adela_Breton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18608933> .
+<http://dbpedia.org/resource/Crystal_Bennett> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18783597> .
+<http://dbpedia.org/resource/William_Thompson_Watkin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18757265> .
+<http://dbpedia.org/resource/Martha_Sharp_Joukowsky> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19667749> .
+<http://dbpedia.org/resource/Ida_Hill> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29047127> .
+<http://dbpedia.org/resource/Helen_Waterhouse> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18528196> .
+<http://dbpedia.org/resource/Roger_Jacobi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60227460> .
+<http://dbpedia.org/resource/Fumiko_Ikawa-Smith> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q90186563> .
+<http://dbpedia.org/resource/Francis_Kelsey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20679115> .
+<http://dbpedia.org/resource/Robert_Hamilton_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20684156> .
+<http://dbpedia.org/resource/Robert_Hamilton_(archaeologist)> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7346225> .
+<http://dbpedia.org/resource/Anne_Strachan_Robertson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27712404> .
+<http://dbpedia.org/resource/Mercy_Seiradaki> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27679760> .
+<http://dbpedia.org/resource/James_B._Stoltman> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q58639006> .
+<http://dbpedia.org/resource/Mary_Beaudry> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47492963> .
+<http://dbpedia.org/resource/Su_Bai> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47535786> .
+<http://dbpedia.org/resource/E._C._L._During_Caspers> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q51719608> .
+<http://dbpedia.org/resource/Elsie_Jury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94245218> .
