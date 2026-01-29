@@ -1,0 +1,343 @@
+"pk_excavation","fk_person","fk_site","begin_date","end_date"
+1,1,1,1930,1935
+2,1,2,1938,1940
+3,1,3,1954,1966
+4,2,4,1931,1973
+5,4,5,1850,1863
+6,4,6,1850,1863
+7,3,7,1993,
+8,7,8,1921,1922
+9,7,9,1921,1922
+10,10,10,1961,1968
+11,11,10,1961,1968
+12,6,11,1946,1998
+1,1,1,,1924
+2,1,2,,1937
+3,2,3,1919,ca. 1922
+4,2,4,1922,1926
+5,2,5,,1930
+6,3,6,,
+7,3,7,,
+8,3,8,,
+9,5,9,1861,1868
+10,6,10,,1928
+11,7,11,,
+12,7,12,,
+13,7,13,,
+14,7,14,,1918
+15,10,15,,
+16,11,16,1915,1918
+17,11,17,,1922
+18,12,18,,1975
+19,12,19,,1991
+1,Lettres et Sciences humaines,,License,1,1
+2,Lettres et Sciences humaines,,Doctorat,1,1
+3,Non spécifié,,,4,6
+4,Sciences humaines,Archéologie et anthropologie,License/Baccalauréat,1,7
+5,Sciences humaines,Fouilles archéologiques en Afrique de l'Est (archéologie et anthropologie),Doctorat,1,7
+6,Non spécifié,,Baccalauréat international,1,10
+7,Sciences,Géologie et biologie,Baccalauréat ès sciences,1,11
+8,Non spécifié,,Doctorat,1,12
+9,Non spécifié,,Non spécifié,1,17
+10,Sciences et langues étrangères,"Astronomie, mathématiques, géographie et langues étrangères",Non spécifié,1,26
+11,Langues modernes,Arabe et turc,Non spécifié,5,28
+12,Non spécifié,,Non spécifié,5,29
+13,Non spécifié,,Non spécifié,5,30
+14,Non spécifié,Déesses armées dans l'art classique grec et leurs origines orientales,Doctorat,1,31
+15,Non spécifié,,Non spécifié,1,32
+16,Non spécifié,,Non spécifié,4,33
+17,Droit,,Candidatus juris,1,32
+18,Sciences humaines,Archéologie et histoire ancienne,Doctorat,1,36
+19,Non spécifié,"",Doctorat,1,36
+1,Formation universitaire,5
+2,Certification,
+3,Formation professionnelle,
+4,Formation secondaire,
+5,Formation supérieure,
+1,Genève,Ville en Suisse,"46 12 00","06 09 00",1
+2,Lausanne,Ville en Suisse,"46 31 16","06 37 52",1
+3,Rome,Capitale de l'Italie,"41 53 19","12 29 12",1
+4,Paris,Capitale de la France,"48 51 24","02 21 07",1
+5,Philippes,Ville antique et site archéologique en Grèce,"41 00 47","24 17 11",5
+6,Baalbek,Ville au Liban,"34 00 25","36 12 14",1
+7,Palmyre/Tadmor,Ville en Syrie,"34 33 15","38 16 00",1
+8,Athènes,Capitale de la Grèce,"37 58 56","23 44 16",1
+9,Kabete,Ancien comté du Kenya,-01 16 00,"36 43 00",8
+10,Nairobi,Capitale du Kenya,-01 17 00,"36 49 00",1
+11,Frasso Telesino,Commune italienne de la Campanie,"41 09 00","14 32 00",9
+12,Paroisse Maria Magdalena,"Paroisse du diocèse de Stockholm, à Södermalm","59 19 08","18 04 02",10
+13,Dresde,Ville-arrondissement en Allemagne,"51 03 00","13 44 00",11
+14,Bénouville,Commune française du Calvados en Normandie,"49 14 30","00 16 43",9
+15,Ancien huitième arrondissement de Paris,Un des douze arrondissements de Paris de 1795 à 1860,"48 51 20","02 21 59",12
+16,Lillehammer,Ville en Norvège,"61 07 32","10 29 14",1
+17,Londres,Capitale de l'Angleterre et du Royaume-Uni,"51 30 26",-00 07 39,1
+18,Meråker,Commune norvégienne de la région du Stjørdalen,"63 26 17","11 50 58",9
+19,Mvengue,Commune camerounaise du département de l'Océan,"03 17 00","11 01 00",9
+20,Weymouth,Ville en Angleterre,"50 36 35",-02 27 17,1
+21,Cambridge,Ville en Angleterre,"52 12 29","00 07 21",1
+22,Gorges d'Olduvaï,Complexe de sites préhistoriques en Tanzanie,-02 59 00,"35 21 00",16
+23,Upsal,Ville en Suède,"59 50 00","17 40 00",1
+24,Château de St Donats,"Château abritant l'UWC Atlantic College, près du village de St Donats au pays de Galles","51 24 07",-03 32 00,14
+25,Bristol,Ville en Angleterre,"51 27 00",-02 34 59,1
+26,Turkana,"Comté du Kenya, bordé par le lac Turkana à l'est","03 09 00","35 21 00",8
+27,Koobi Fora,Zone fossilifère située sur la rive orientale du lac Turkana au Kenya,"03 56 52","36 11 14",16
+28,Pompéi,Ville antique et site archéologique en Italie,"40 45 04","14 29 24",5
+29,Herculanum,Ville antique et site archéologique en Italie,"40 48 21","14 20 51",5
+30,Naples,Ville en Italie,"40 50 00","14 15 00",1
+31,Berlin,Capitale de l'Allemagne,"52 31 00","13 23 00",1
+32,Stockholm,Capitale de la Suède,"59 19 46","18 04 07",1
+33,Copenhague,Capitale du Danemark,"55 41 24","12 35 09",1
+34,Göttingen,Ville en Allemagne,"51 32 00","09 56 00",1
+35,Lima,Capitale du Pérou,-12 02 43,-77 01 52,1
+36,Désert de Nazca,Région au sud du Pérou où se trouve les géoglyphes de Nazca,-14 43 00,-75 08 00,17
+37,Tyr,Ville au Liban,"33 16 08","35 12 59",5
+38,Bordj Chemalè,Village ou localité au sud-est de Tyr au Liban,,,3
+39,Cusco,Ville au Pérou,-13 31 01,-71 58 43,1
+40,L'Anse aux Meadows,Site archéologique situé sur l'île de Terre-Neuve au Canada,"51 35 44",-55 32 00,4
+41,Oslo,Capitale de la Norvège,"59 54 48","10 44 20",1
+42,Bergen,Ville en Norvège,"60 22 57","05 20 41",1
+43,Territoires du Nord-Ouest,Territoire du Canada,"67 00 00",-121 00 00,18
+44,Svalbard,Archipel norvégien situé en mer du Groenland,"78 09 00","15 52 00",19
+45,Terre d'Erik le Rouge,Partie de la côte du Groenland ayant été occupée par la Norvège de 1931 à 1933,"73 47 44",-27 16 46,""
+46,Saint-Jean,Capitale de la province de Terre-Neuve-et-Labrador au Canada,"47 33 41",-52 42 43,1
+47,Yaoundé,Capitale du Cameroun,"03 52 00","11 31 00",1
+1,Ville,"Lieu caractérisé par une forte densité de population et de bâtiments, une organisation de l'espace qu'il occupe et possédant des statuts administratifs spécifiques",
+2,Lieu-dit,,
+3,Village,,
+4,Site archéologique,,
+5,Site archéologique,,1
+6,Site archéologique,,2
+7,Site archéologique,,3
+8,Comté,,
+9,Commune,,
+10,Paroisse,,
+11,Ville-arrondissement,,1
+12,Arrondissement,,
+13,Colline,,
+14,Château,,
+15,Quartier,,
+16,Région fossilifère,,4
+17,Région désertique,,
+18,Territoire,,
+19,Archipel,,
+1,1,5,1926,
+2,1,1,1940,1963
+3,1,2,1946,
+4,1,3,1953,
+5,1,4,1963,1970
+6,2,7,1929,
+7,2,8,1941,1961
+8,2,9,1961,
+9,3,13,1993,
+10,4,14,,
+11,4,15,1850,
+12,4,16,,
+13,5,18,1877,
+14,5,20,1895,
+15,5,21,"1917-12-20","1921-11-04"
+16,5,22,1897,
+17,5,23,1909,
+18,5,24,1910,
+19,5,25,1921,
+20,6,27,"",
+21,11,32,,
+22,11,34,,
+23,11,35,,
+24,12,37,1975,
+25,12,39,1978,2013
+26,12,38,2005,2007
+27,12,40,,
+1,Professeur extraordinaire,17
+2,Professeur ordinaire,17
+3,Professeur d'archéologie et d'histoire ancienne,1
+4,Professeur d'archéologie et d'histoire ancienne,2
+5,Directeur d'institut,12
+6,Inventoriste/chargé de l'inventaire des biens culturels de la Syrie et du Liban,
+7,Photographe,
+8,Conservateur de musée,
+9,Directeur de centre,12
+10,Chercheur,
+11,Chercheur postdoctoral,10
+12,Directeur,
+13,Chef d'expédition,
+14,Directeur d'un programme de recherche,12
+15,Directeur de musée,12
+16,Directeur de fouilles,12
+17,Professeur,30
+18,Administrateur,
+19,Administrateur général du patrimoine national/antiquaire national,18
+20,Traducteur,
+21,Assistant,
+22,Étude et cartographie,
+23,Gouvernante/tuteur,
+24,Collaborateur scientifique,10
+25,Trappeur,
+26,Gouverneur,
+27,Chargé de cours-délégué,29
+28,Maître de conférences,30
+29,Enseignant,
+30,Enseignant-chercheur,29
+31,Professeur titulaire des universités,17
+32,Chef de département,
+33,Chef du département d'histoire,32
+34,Chef du département des arts et archéologie,32
+35,Chargé de cours d'histoire et d'archéologie,27
+36,Doyen,
+37,"Doyen de la Faculté des arts, lettres et sciences humaines",36
+38,Recteur,12
+39,Président,
+40,Président de comité,
+41,Chef de service,
+42,Chef de service adjoint de la conservation,41
+43,Directeur adjoint,12
+44,Directeur des affaires culturelles,12
+45,Professeur émérite,17
+1,Université de Genève,1559,Université publique suisse située dans la ville de Genève,1,5
+2,Université de Lausanne,1537,Université publique suisse située dans la ville de Lausanne,2,5
+3,Unesco,"1945 -11-16",Agence spécialisée de l'ONU située dans la ville de Paris,4,8
+4,Institut suisse de Rome,1949,Institution universitaire suisse située dans la ville de Rome,3,9
+5,Ecole française d'Athènes,1846,Institution de formation française située dans la ville d'Athènes,8,9
+6,Weymouth College,1863,Établissement anglais d'enseignement secondaire pour garçons et jeunes hommes situé dans la ville de Weymouth,20,10
+7,"St John's College, University of Cambridge",1511,Collège de l'université de Cambridge situé dans la ville de Cambridge,21,11
+8,Coryndon Museum,1930,Musée d'histoire naturelle du Kenya de 1930 à 1963 situé dans la ville de Nairobi,10,12
+9,Centre de Préhistoire et Paléontologie,1961,"Centre fondé et dirigé par Louis Leakey, abritant ses collections et constituant son centre d'opérations situé dans la ville de Nairobi",10,13
+10,UWC Atlantic College,1962,Université indépendante et privée située dans le château de St Donats,24,14
+11,Université de Bristol,1909,Université publique anglaise située dans la ville de Bristol,25,5
+12,University College de Londres,1826,"Université publique de recherche anglaise faisant partie de l'université de Londres, située dans la ville de Londres",17,5
+13,"Projet de recherches ""Koobi Fora""",1968,"Projet de recherches international dont le but est d'explorer, fouiller et préserver la région du lac Turkana et les sites de Koobi Fora",27,15
+14,Real Museo Borbonico,1822,Musée archéologique national de la ville de Naples de 1822 à 1860,30,12
+15,Académie royale des sciences de Prusse,"1700-03-18","Institution académique allemande dédiée aux sciences naturelles et dures, située dans la ville de Berlin",31,16
+16,Institut archéologique allemand,"1829-01-02","Institution de recherche allemande rattachée à l'Office des Affaires étrangères allemand, située dans la ville de Berlin",31,17
+17,Université d'Uppsala,1477,Université publique d'État suédoise située dans la ville d'Upsal en Suède,23,5
+18,"Académie royale suédoise des belles-lettres, d'histoire et des antiquités",1753,"Institution académique royale et nationale de Suède dédiée aux sciences humaines, située dans la ville de Stockholm",32,21
+19,Direction nationale du patrimoine de Suède,1630,"Agence publique suédoise chargée de la gestion et protection des sites et monuments historiques du pays, située dans la ville de Stockholm",32,18
+20,Académie royale des sciences de Suède,"1739-06-02","Institution académique royale et nationale de Suède dédiée aux sciences naturelles et aux mathématiques, située dans la ville de Stockholm",32,21
+21,Académie suédoise,"1786-03-20","Institution académique royale et nationale de Suède dédiée aux lettres et langues, située dans la ville de Stockholm",32,20
+22,Académie nationale des Lyncéens,1603,"La plus ancienne institution académique (des sciences) d'Europe, située dans la ville de Rome",3,16
+23,"Société berlinoise d'anthropologie, d'ethnologie et de préhistoire","1869-11","Association enregistrée et société scientifique allemande dédiée à l'anthropologie, l'ethnologie et la préhistoire, située dans la ville de Berlin",31,22
+24,Académie royale danoise des sciences et des lettres,"1742-11-13","Institution académique royale et société savante danoise dédiée à la promotion de la recherche scientifique, située dans la ville de Copenhague",33,16
+25,Académie des sciences de Göttingen,1751,"Institution académique et société savante allemande dédiée à la science, située dans la ville de Göttingen",34,16
+26,Université technique de Dresde,1828,Université publique allemande située dans la ville de Dresde,13,5
+27,"Musée national d'archéologie, d'anthropologie et d'histoire du Pérou",1822,"Musée le plus ancien du Pérou, dédié à la culture et à l'histoire de la civilisation péruvienne, situé dans la ville de Lima",35,12
+28,École nationale des langues orientales vivantes,1914,"Établissement français d'enseignement supérieur et de recherche dédié aux langues et cultures autres que celles d'Europe occidentale de 1914 à 1971, situé dans la ville de Paris",4,23
+29,École pratique des hautes études,"1868-07-31","Établissement national français d'enseignement supérieur dédié aux sciences de la vie et de la terre, aux sciences historiques et philologiques et aux sciences religieuses, situé dans la ville de Paris",4,23
+30,Collège de France,1530,"Grand établissement d'enseignement supérieur et de recherche français dédié aux lettres, sciences et arts, situé dans la ville de Paris",4,23
+31,École du Louvre,1882,"Établissement français d'enseignement supérieur dédié à l'histoire de l'art, l'archéologie, l'épigraphie, l'anthropologie et la muséologie, situé dans la ville de Paris",4,24
+32,Université d'Oslo,"1811-09-02","Université publique norvégienne, la plus ancienne institution d'éducation supérieure de Norvège, située dans la ville d'Oslo",41,5
+33,École de la Cathédrale de Bergen,1153,Établissement norvégien d'enseignement secondaire situé dans la ville de Bergen,42,25
+34,Université Memorial de Terre-Neuve,1925,Université publique canadienne située dans la ville de Saint-Jean,46,5
+35,Académie norvégienne des sciences et des lettres,1857,"Institution académique nationale norvégienne dédiée aux mathématiques, sciences naturelles et humanités, située dans la ville d'Oslo",41,21
+36,Université Paris-I-Panthéon-Sorbonne,1971,"Établissement d'enseignement supérieur dédié aux sciences économiques, à la gestion, aux arts, aux sciences humaines, au droit et à la science politique ; université publique française située dans la ville de Paris",4,5
+37,Université de Yaoundé I,1993,"Université publique camerounaise, issue de la scission de l'université de Yaoundé en 1993, située dans la ville de Yaoundé",47,5
+38,Institut Universitaire Joseph Ndi-Samba,1968,"Université privée camerounaise, anciennement Université de Yaoundé-Sud Joseph Ndi Samba, aussi appelée Centre Universitaire Joseph Ndi Samba, située dans la ville de Yaoundé",47,14
+39,Comité national camerounais des musées,,ICOM-Cameroun ; comité national des musées et des professionnels des musées du Cameroun,47,28
+40,Ministère de l'Information et de la Culture du Cameroun,1975,Ministère du Cameroun de 1975 à 1992; actuellement nommé Ministère de Arts et de la Culture,47,29
+1,Institution,
+2,Entreprise,
+3,Agence,
+4,Association,
+5,Université publique,1
+6,Entreprise privée,2
+7,Entreprise publique,2
+8,Agence spécialisée de l'ONU,3
+9,Institution universitaire,1
+10,Établissement d'enseignement secondaire,1
+11,Établissement d'enseignement supérieur pour les étudiants de premier cycle (undergraduates),1
+12,Musée,1
+13,Centre de recherches privé,1
+14,Université privée,1
+15,Projet de recherche,4
+16,Académie des sciences,19
+17,Institution de recherche,1
+18,Agence publique,3
+19,Académie,1
+20,Académie nationale,19
+21,Académie des sciences,20
+22,Société scientifique,4
+23,Grand établissement,11
+24,Établissement public à caractère administratif,11
+25,Établissement d'enseignement secondaire de deuxième cycle,10
+26,Comité,
+27,Comité national,26
+28,Comité national des musées et des professionnels de musée,27
+29,Ministère,
+1,Paul Collart,homme,"Archéologue, papyrologue, historien, professeur d'université et photographe suisse","1902-04-19","1981-09-08",suisse,"Proche-Orient et Levant (Liban, Syrie, Palmyre)",1
+2,Louis Leakey,homme,"Archéologue, préhistorien, paléoprimatologue, paléontologue, (paléo)anthropologue et conservateur de musée kényan et britannique","1903-08-07","1972-10-01","kényanne, britannique",Évolution humaine en Afrique de l'Est,9
+3,Louise de Merode-Leakey,femme,"Archéologue, (paléo)anthropologue, préhistorienne et paléontologue kényanne et britannique ; princesse de Merode","1972-03-21",,"kényanne, britannique",Fossiles d'hominines en Afrique de l'Est,10
+4,Domenico Spinelli,homme,"Archéologue, historien de l'art et numismate napolitain et italien ; neuvième prince de San Giorgio del Sannio",1788,"1863-04-10","napolitaine, puis italienne","Pompéi, Herculanum ; monnaies coufiques de l'Italie du Sud et de la Sicile",11
+5,Oscar Montelius,homme,"Archéologue, anthropologue et préhistorien suédois","1843-09-09","1921-11-04",suédoise,Âges des métaux en Scandinavie ; datation par sériation,12
+6,Maria Reiche,femme,"Archéologue, mathématicienne et professeure de langues allemande et péruvienne","1903-05-15","1998-06-08","allemande, péruvienne",Géoglyphes nazcas du Pérou,13
+7,Denyse Le Lasseur,femme,Archéologue et orientaliste française,"1889-08-17","1945-01-29",française,Déesses armées grecques et orientales ; Tyr,14
+8,Charles Simon Clermont-Ganneau,homme,"Archéologue, épigraphiste, orientaliste, linguiste, traducteur, drogman, historien de l'art, diplomate et professeur d'université français","1846-02-19","1923-02-15",française,"Proche-Orient et Levant (Phéniciens, Egypte et Jérusalem) ; épigraphie et langues anciennes",15
+9,Gertrude Caton-Thompson,femme,"Archéologue, préhistorienne et égyptologue britannique","1888-02-01","1985-04-18",britannique,"Mésopotamie, Grand Zimbabwe et Égypte (Al-Kharga, Badari, etc.)",17
+10,Anne Stine Ingstad,femme,"Archéologue, anthropologue, préhistorienne et exploratrice norvégienne","1918-02-11","1997-11-06",norvégienne,Archéologie viking,16
+11,Helge Marcus Ingstad,homme,"Archéologue, ethnologue, avocat, juriste, écrivain, joueur d'échecs, explorateur et globe-trotteur norvégien","1899-12-30","2001-03-29",norvégienne,Archéologie viking,18
+12,Joseph-Marie Essomba,homme,"Archéologue, historien et professeur d'université camerounais","1939-10-28","2014-02-05",camerounaise,Archéologie et histoire africaine et camerounaise,19
+13,Paul Kosok,homme,Historien américain,,,américaine,Anciens systèmes d'irrigation au Pérou,
+1,,,6,2,3
+2,1938,1948,8,13,6
+3,,1923,10,8,7
+4,1941,,4,10,11
+5,1941,,7,10,11
+1,familiale,Les deux personnes font partie de la même famille.,
+2,professionnelle,Les deux personnes font ou ont fait partie de la même entreprise.,
+3,académique,Les deux personnes fréquentent ou ont fréquenté la même université.,
+4,maritale,Les deux personnes sont mariées.,1
+5,fraternelle,Les deux personnes font partie de la même fratrie.,1
+6,filiale,La première personne est le parent ou le grand-parent de l'autre.,1
+7,collaborative,Les deux personnes sont ou ont été collègues de travail ou collaborateurs.,2
+8,hiérarchique,La première personne est ou a été l'employeur de l'autre.,2
+9,camarades de classe,Les deux personnes suivent ou ont suivi la même formation universitaire et/ou les mêmes cours (plus ou moins) au même moment.,3
+10,filiation scientifique,La première personne est ou a été le professeur ou le maître de l'autre.,3
+1,1940,1950,1,3,1,1,
+2,1950,1963,1,4,1,1,
+3,1946,1950,1,3,2,2,
+4,1950,"",1,4,2,2,
+5,1953,,1,6,3,4,
+6,1963,1970,1,5,4,3,
+7,,1981,1,7,,,
+8,1941,1961,2,8,8,10,
+9,1961,,2,9,9,10,
+10,1929,,2,11,7,21,
+11,1993,,3,13,,26,
+12,1933,,3,14,13,27,
+13,,,4,15,14,30,
+14,1850,1863,4,16,,28,
+15,1850,1863,4,16,,29,
+16,1888,,5,17,18,32,
+17,1907,1913,5,19,19,32,
+18,,1938,6,20,27,35,
+19,1938,1948,6,21,,,13
+20,1938,1948,6,20,,,13
+21,1941,1946,6,22,,36,13
+22,1946,,6,22,,36,
+23,1932,1934,6,23,,39,
+24,1941,,10,24,,,11
+25,1926,ca. 1930,11,25,,43,
+26,1932,1933,11,26,,45,
+27,"1933-07-28","1935-09-01",11,26,,44,
+28,,,11,24,32,,
+29,,,11,24,34,"",
+30,1975,1991,12,35,37,47,
+31,1991,1999,12,28,37,47,
+32,1999,,12,31,37,47,
+33,1993,2000,12,33,37,47,
+34,2000,2004,12,34,37,47,
+35,1997,1999,12,37,37,47,
+36,2005,2007,12,38,38,47,
+37,1978,2013,12,40,39,,
+38,,,12,42,40,,
+39,,,12,43,40,,
+40,,,12,44,40,,
+41,,,12,45,,,
+1,Philippes,1856,période macédonienne ; période byzantine,5
+2,Autel monumental de Baalbek,1938,période phénicienne,6
+3,Temple de Baalshamin,1756,période impériale romaine,7
+4,Gorges d'Olduvaï,1911,Paléolithique ancien,22
+5,Pompéi,1592,époque étrusque ; époque samnite ; période républicaine et impériale romaine,28
+6,Herculanum,1738,époque étrusque ; époque samnite ; période républicaine et impériale romaine,29
+7,Koobi Fora,,Pliocène ; Pléistocène ; Paléolithique ancien,27
+8,Tell el-Ma'shouq,,période phénicienne,37
+9,Djel el-'Amad,,période phénicienne,38
+10,Anse aux Meadows,1960,période préhistorique amérindienne ; période viking,40
+11,Lignes et géoglyphes de Nazca et de Pampas de Jumana,1927,civilisation Nazca ; période pré-inca,36
